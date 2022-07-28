@@ -1,0 +1,16 @@
+{
+    "test_table_1_column_2": {
+        "code_hash": "",
+        "column_data": {},
+        "column_stats": {},
+        "decode_values": {},
+        "dependencies": [],
+        "descendents": [],
+        "description": "Test table 1's second column, existing only in docs.",
+        "home_table": "test_table_1",
+        "possible_values": [],
+        "table_bytes": 0,
+        "table_data": [],
+        "test_attr": "test_attr_value"
+    }
+}

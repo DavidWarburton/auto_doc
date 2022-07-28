@@ -1,0 +1,7 @@
+__pycache__/
+graph_product/
+*.py[cod]
+*$py.class
+
+.temp_user_input.txt
+personal_settings.py

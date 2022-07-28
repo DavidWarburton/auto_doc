@@ -1,0 +1,14 @@
+{
+	"import_test_2_first_name": {
+		"start_pos": 1,
+		"length": 10
+	},
+	"import_test_2_last_name": {
+		"start_pos": 11,
+		"length": 10
+	},
+	"import_test_2_age": {
+		"start_pos": 21,
+		"length": 10
+	}
+}
