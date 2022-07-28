@@ -14,18 +14,5 @@ See the License for the specific language governing permissions and
 limitations under the License.
 """
 
-import os
-
-from ..auto_doc import TrackedObject
-
-INITABLE_TRACKED_OBJECT_TYPE = 'initable_objects'
-class InitableTrackedObject(TrackedObject):
-    object_type = INITABLE_TRACKED_OBJECT_TYPE
-    subclass_pack_path = str.join('.', [
-        __package__,
-        INITABLE_TRACKED_OBJECT_TYPE,
-    ])
-    subclass_file_path = os.path.join(
-        os.path.dirname(__file__),
-        INITABLE_TRACKED_OBJECT_TYPE,
-    )
+c_drive_folder = r'C:\Users\dwarburton-19-g01'
+table_suffix = 'dwarburton-19-g01'

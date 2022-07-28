@@ -13,14 +13,3 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 """
-
-from ...auto_doc import FixedWidthImportTable
-
-
-class ImportTest1(FixedWidthImportTable):
-    name = 'import_test_1'
-    flat_file_paths = {
-		"test_flat_file_1": r"R:\working\users\david\auto_doc\auto_doc\tests\fixed_width_imports\flat_files\test_flat_file_1.dat.gz",
-		"test_flat_file_2": r"R:\working\users\david\auto_doc\auto_doc\tests\fixed_width_imports\flat_files\test_flat_file_2.dat.gz",
-	}
-    meta_column_name = "file"

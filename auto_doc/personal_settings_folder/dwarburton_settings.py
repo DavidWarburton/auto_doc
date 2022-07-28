@@ -14,22 +14,5 @@ See the License for the specific language governing permissions and
 limitations under the License.
 """
 
-from ...auto_doc import TrackedTable
-
-
-class TestTable2(TrackedTable):
-    name = 'test_table_2'
-
-    def build(self, cursor=None):
-        if not cursor:
-            cursor = self.get_cursor()
-        cursor.execute(
-            "CREATE TABLE test_table_2 ("
-                "test_table_2_column_1 NUMERIC"
-            ")"
-        )
-        cursor.execute(
-            "INSERT INTO test_table_2 "
-            "SELECT test_table_1_column_1 "
-            "FROM test_table_1 "
-        )
+c_drive_folder = r'C:\Users\dwarburton-19-g01'
+table_suffix = 'dwarburton-19-g01'
