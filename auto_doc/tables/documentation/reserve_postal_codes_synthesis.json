@@ -1,0 +1,95 @@
+{
+    "reserve_postal_codes_synthesis": {
+        "code_hash": "1566118ea4be71fa421e431f55ee63bb",
+        "column_data": {
+            "raw_geog_postal_code_hash": {
+                "character_maximum_length": null,
+                "character_octet_length": 1073741824,
+                "character_set_catalog": null,
+                "character_set_name": null,
+                "character_set_schema": null,
+                "collation_catalog": null,
+                "collation_name": null,
+                "collation_schema": null,
+                "column_default": null,
+                "column_name": "raw_geog_postal_code_hash",
+                "data_type": "text",
+                "datetime_precision": null,
+                "domain_catalog": null,
+                "domain_name": null,
+                "domain_schema": null,
+                "dtd_identifier": "1",
+                "generation_expression": null,
+                "identity_cycle": "NO",
+                "identity_generation": null,
+                "identity_increment": null,
+                "identity_maximum": null,
+                "identity_minimum": null,
+                "identity_start": null,
+                "interval_precision": null,
+                "interval_type": null,
+                "is_generated": "NEVER",
+                "is_identity": "NO",
+                "is_nullable": "YES",
+                "is_self_referencing": "NO",
+                "is_updatable": "YES",
+                "maximum_cardinality": null,
+                "numeric_precision": null,
+                "numeric_precision_radix": null,
+                "numeric_scale": null,
+                "ordinal_position": 1,
+                "scope_catalog": null,
+                "scope_name": null,
+                "scope_schema": null,
+                "table_catalog": "db-19-g01",
+                "table_name": "reserve_postal_codes_synthesis",
+                "table_schema": "public",
+                "udt_catalog": "db-19-g01",
+                "udt_name": "text",
+                "udt_schema": "pg_catalog"
+            }
+        },
+        "column_stats": {
+            "raw_geog_postal_code_hash": {
+                "attname": "raw_geog_postal_code_hash",
+                "avg_width": 25,
+                "correlation": -0.0113851,
+                "elem_count_histogram": null,
+                "histogram_bounds": "{011D1sG76rq74GIdF+8Xbw==,2j0xE3vmXJ1LBuSx69VtHg==,4q8t1kUVdGuYM9LosmzT6A==,7evvDyeWxG+cX3rBZGfk7g==,9S7SV2k5ENx5XEAG5C8fPw==,b5U3PiI2QkaUdhOg4JXrZg==,CFP3QrdCeRsp2tt1LecyiQ==,DOijUDY8EZdgoxphM7UdVg==,F59RKNoNvS03FGNzOA8ouw==,gEjjCUJ/yGxLqWTkrt9u0A==,HP55reEognCg96fz0bdpGg==,ivNIe9sYYR30gtmX17tuZQ==,k6hdadPzSCbikvHpim+Ryg==,lbWicxarZt0Fn/5vUru2tQ==,mjQc3pBVpi3+Btu+nK/6NA==,nqlYxy2Z7Uu3uyooUrkshw==,ox4oy6AjDPn1TjbWqUH+tw==,Q7v1pMKZRQvIt/RgHV6vKw==,rE6unw91oPJLcmAPocRO6Q==,ShQ+nd8WUVSb5zO+vf91DQ==,TRPxTFVjIiQLk72cqJoGMg==,uziIpb+A6WfqethNAvtlTA==,wAysAhC/Jd0wfitwjXgjYQ==,xILPdMaUr4HK4UDI+vpr7w==,YPVYEG7EUU+qRXZBoi6jpA==,ZzRkykKvqKs9jxpYY1hJjA==}",
+                "inherited": false,
+                "most_common_elem_freqs": null,
+                "most_common_elems": null,
+                "most_common_freqs": null,
+                "most_common_vals": null,
+                "n_distinct": -1.0,
+                "null_frac": 0.0,
+                "schemaname": "public",
+                "tablename": "reserve_postal_codes_synthesis"
+            }
+        },
+        "dependencies": [
+            "aboriginal_status",
+            "geog_unduped"
+        ],
+        "descendents": [
+            "on_reserve_pat"
+        ],
+        "description": "A combination of two previous methods for finding reserve postal codes.\nWe first find all postal codes that people marked in education as being on reserve live at.\nThen we restrict the list to only those with at least 20% aboriginal residents.",
+        "renamed_columns": {},
+        "table_bytes": 573440,
+        "table_data": {
+            "commit_action": null,
+            "is_insertable_into": "YES",
+            "is_typed": "NO",
+            "reference_generation": null,
+            "self_referencing_column_name": null,
+            "table_catalog": "db-19-g01",
+            "table_name": "reserve_postal_codes_synthesis",
+            "table_schema": "public",
+            "table_type": "BASE TABLE",
+            "user_defined_type_catalog": null,
+            "user_defined_type_name": null,
+            "user_defined_type_schema": null
+        }
+    }
+}
