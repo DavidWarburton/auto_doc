@@ -1,0 +1,62 @@
+{
+	"ICMPID_CORD": {
+		"start_pos": 1,
+		"length": 16,
+		"type": "text"
+	},
+	"INDIGENOUS_ORIGIN": {
+		"start_pos": 17,
+		"length": 17,
+		"type": "text"
+	},
+	"BAND_OF_ORIGIN": {
+		"start_pos": 34,
+		"length": 58,
+		"type": "text"
+	},
+	"FATHERS_BAND": {
+		"start_pos": 92,
+		"length": 58,
+		"type": "text"
+	},
+	"INUIT_REGION": {
+		"start_pos": 150,
+		"length": 13,
+		"type": "text"
+	},
+	"MOTHERS_BAND": {
+		"start_pos": 163,
+		"length": 58,
+		"type": "text"
+	},
+	"GENDER": {
+		"start_pos": 221,
+		"length": 13,
+		"type": "text"
+	},
+	"BIRTH_DT_YYYYMM": {
+		"start_pos": 234,
+		"length": 6,
+		"type": "text"
+	},
+	"DATAYR": {
+		"start_pos": 240,
+		"length": 4,
+		"type": "text"
+	},
+	"VERSION": {
+		"start_pos": 244,
+		"length": 2,
+		"type": "text"
+	},
+	"SEQNO": {
+		"start_pos": 246,
+		"length": 10,
+		"type": "text"
+	},
+	"STUDYID": {
+		"start_pos": 256,
+		"length": 10,
+		"type": "text"
+	}
+}

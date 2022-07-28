@@ -1,0 +1,32 @@
+{
+	"ym": {
+		"type": "text",
+		"length": 8,
+		"start_pos": 1
+	},
+	"fileid": {
+		"type": "text",
+		"length": 10,
+		"start_pos": 9
+	},
+	"uip_flag": {
+		"type": "text",
+		"length": 3,
+		"start_pos": 19
+	},
+	"datayr": {
+		"type": "text",
+		"length": 4,
+		"start_pos": 22
+	},
+	"version": {
+		"type": "text",
+		"length": 2,
+		"start_pos": 26
+	},
+	"seqno": {
+		"type": "text",
+		"length": 10,
+		"start_pos": 28
+	}
+}

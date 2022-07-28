@@ -1,0 +1,42 @@
+{
+	"PAYMENT_SK": {
+		"end_pos": 20,
+		"start_pos": 1
+	},
+	"ICM_CASE_NUMBER": {
+		"length": 15,
+		"start_pos": 21
+	},
+	"ASSISTANCE_BENEFIT_MTH": {
+		"length": 10,
+		"start_pos": 36
+	},
+	"ALLOWANCE_CD_DESC": {
+		"length": 29,
+		"start_pos": 46
+	},
+	"UNADJUSTED_AMOUNT": {
+		"length": 10,
+		"start_pos": 75
+	},
+	"ADJUSTED_AMOUNT": {
+		"length": 11,
+		"start_pos": 85
+	},
+	"GL_POSTED_AMOUNT": {
+		"length": 10,
+		"start_pos": 96
+	},
+	"DATAYR": {
+		"length": 4,
+		"start_pos": 106
+	},
+	"VERSION": {
+		"length": 2,
+		"start_pos": 110
+	},
+	"SEQNO": {
+		"length": 10,
+		"start_pos": 112
+	}
+}

@@ -1,0 +1,126 @@
+{
+	"studyid": {
+		"start_pos": 1,
+		"length": 10
+	},
+	"fsa": {
+		"start_pos": 12,
+		"length": 3
+	},
+	"postal": {
+		"start_pos": 16,
+		"length": 24
+	},
+	"eruid": {
+		"start_pos": 41,
+		"length": 4
+	},
+	"cd": {
+		"start_pos": 45,
+		"length": 2
+	},
+	"feduid": {
+		"start_pos": 48,
+		"length": 5
+	},
+	"fed16uid": {
+		"start_pos": 54,
+		"length": 5
+	},
+	"eruid2": {
+		"start_pos": 60,
+		"length": 4
+	},
+	"cmapuid": {
+		"start_pos": 65,
+		"length": 3
+	},
+	"cmatype": {
+		"start_pos": 69,
+		"length": 1
+	},
+	"cmapuid_ct": {
+		"start_pos": 71,
+		"length": 10
+	},
+	"csduid": {
+		"start_pos": 82,
+		"length": 7
+	},
+	"tracted": {
+		"start_pos": 90,
+		"length": 1
+	},
+	"saccode": {
+		"start_pos": 92,
+		"length": 3
+	},
+	"sactype": {
+		"start_pos": 96,
+		"length": 1
+	},
+	"csize": {
+		"start_pos": 98,
+		"length": 1
+	},
+	"csizemiz": {
+		"start_pos": 100,
+		"length": 1
+	},
+	"pctype": {
+		"start_pos": 102,
+		"length": 1
+	},
+	"qaippe": {
+		"start_pos": 104,
+		"length": 1
+	},
+	"qnippe": {
+		"start_pos": 106,
+		"length": 1
+	},
+	"daippe": {
+		"start_pos": 108,
+		"length": 2
+	},
+	"dnippe": {
+		"start_pos": 111,
+		"length": 2
+	},
+	"immter": {
+		"start_pos": 114,
+		"length": 1
+	},
+	"dmt": {
+		"start_pos": 116,
+		"length": 1
+	},
+	"h_dmt": {
+		"start_pos": 118,
+		"length": 1
+	},
+	"popctrratype": {
+		"start_pos": 120,
+		"length": 1
+	},
+	"popctrraclass": {
+		"start_pos": 122,
+		"length": 1
+	},
+	"pccfver": {
+		"start_pos": 124,
+		"length": 2
+	},
+	"datayr": {
+		"start_pos": 127,
+		"length": 4
+	},
+	"versionid": {
+		"start_pos": 132,
+		"length": 2
+	},
+	"sequence": {
+		"start_pos": 135,
+		"length": 10
+	}
+}

@@ -1,0 +1,134 @@
+{
+	"import_msp_a_Subsidy": {
+		"start_pos": 1,
+		"type": "text",
+		"length": 1
+	},
+	"import_msp_a_ServDate": {
+		"start_pos": 2,
+		"type": "DATE",
+		"length": 8,
+		"format": "%Y%m%d"
+	},
+	"import_msp_a_Pracnum_": {
+		"start_pos": 10,
+		"type": "numeric",
+		"length": 5
+	},
+	"import_msp_a_spec": {
+		"start_pos": 15,
+		"type": "numeric",
+		"length": 2
+	},
+	"import_msp_a_Paynum_": {
+		"start_pos": 17,
+		"type": "numeric",
+		"length": 5
+	},
+	"import_msp_a_rfr_pracnum_": {
+		"start_pos": 22,
+		"type": "numeric",
+		"length": 5
+	},
+	"import_msp_a_ServCode": {
+		"start_pos": 27,
+		"type": "numeric",
+		"length": 2
+	},
+	"import_msp_a_ServUnits": {
+		"start_pos": 29,
+		"type": "numeric",
+		"length": 4
+	},
+	"import_msp_a_FeeItem": {
+		"start_pos": 33,
+		"type": "numeric",
+		"length": 5
+	},
+	"import_msp_a_PaidAmt": {
+		"start_pos": 38,
+		"type": "numeric",
+		"length": 5
+	},
+	"import_msp_a_expl_cd": {
+		"start_pos": 45,
+		"type": "text",
+		"length": 6
+	},
+	"import_msp_a_PaidDate": {
+		"start_pos": 51,
+		"type": "numeric",
+		"length": 8,
+		"format": ["%Y%m", "%Y%m%d"]
+	},
+	"import_msp_a_PaidTo": {
+		"start_pos": 59,
+		"type": "text",
+		"length": 1
+	},
+	"import_msp_a_ServWhere": {
+		"start_pos": 60,
+		"type": "text",
+		"length": 2
+	},
+	"import_msp_a_Prov": {
+		"start_pos": 62,
+		"type": "text",
+		"length": 2
+	},
+	"import_msp_a_servloc": {
+		"start_pos": 64,
+		"type": "text",
+		"length": 1
+	},
+	"import_msp_a_Retro": {
+		"start_pos": 65,
+		"type": "text",
+		"length": 1
+	},
+	"import_msp_a_disc_amt": {
+		"start_pos": 66,
+		"type": "numeric",
+		"length": 7
+	},
+	"import_msp_a_rback_amt": {
+		"start_pos": 73,
+		"type": "numeric",
+		"length": 7
+	},
+	"import_msp_a_retro_amt": {
+		"start_pos": 80,
+		"type": "numeric",
+		"length": 7
+	},
+	"import_msp_a_ICD9": {
+		"start_pos": 87,
+		"type": "text",
+		"length": 5
+	},
+	"import_msp_a_clmtype": {
+		"start_pos": 92,
+		"type": "text",
+		"length": 2
+	},
+	"study_daty_year": {
+		"start_pos": 94,
+		"type": "text",
+		"length": 4
+	},
+	"study_version": {
+		"start_pos": 98,
+		"type": "text",
+		"length": 2
+	},
+	"study_sequence_number": {
+		"start_pos": 100,
+		"type": "text",
+		"length": 10
+	},
+	"study_id": {
+		"start_pos": 110,
+		"type": "text",
+		"length": 10
+	}
+}

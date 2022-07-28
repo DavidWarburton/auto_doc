@@ -1,0 +1,3500 @@
+{
+	"import_hosp_n_ADDATE": {
+		"type": "DATE",
+		"end_pos": 10,
+		"start_pos": 1,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_ADMIT": {
+		"type": "text",
+		"end_pos": 11,
+		"start_pos": 11
+	},
+	"import_hosp_n_ADTIME": {
+		"type": "time",
+		"end_pos": 16,
+		"format": "%H:%M",
+		"start_pos": 12
+	},
+	"import_hosp_n_ALCDAYS": {
+		"type": "numeric",
+		"end_pos": 21,
+		"start_pos": 17
+	},
+	"import_hosp_n_AMBULANC": {
+		"type": "text",
+		"end_pos": 22,
+		"start_pos": 22
+	},
+	"import_hosp_n_ANA1": {
+		"type": "text",
+		"end_pos": 23,
+		"start_pos": 23
+	},
+	"import_hosp_n_ANA2": {
+		"type": "text",
+		"end_pos": 24,
+		"start_pos": 24
+	},
+	"import_hosp_n_ANA3": {
+		"type": "text",
+		"end_pos": 25,
+		"start_pos": 25
+	},
+	"import_hosp_n_ANA4": {
+		"type": "text",
+		"end_pos": 26,
+		"start_pos": 26
+	},
+	"import_hosp_n_ANA5": {
+		"type": "text",
+		"end_pos": 27,
+		"start_pos": 27
+	},
+	"import_hosp_n_ANA6": {
+		"type": "text",
+		"end_pos": 28,
+		"start_pos": 28
+	},
+	"import_hosp_n_ANA7": {
+		"type": "text",
+		"end_pos": 29,
+		"start_pos": 29
+	},
+	"import_hosp_n_ANA8": {
+		"type": "text",
+		"end_pos": 30,
+		"start_pos": 30
+	},
+	"import_hosp_n_ANA9": {
+		"type": "text",
+		"end_pos": 31,
+		"start_pos": 31
+	},
+	"import_hosp_n_ANA10": {
+		"type": "text",
+		"end_pos": 32,
+		"start_pos": 32
+	},
+	"import_hosp_n_ANA11": {
+		"type": "text",
+		"end_pos": 33,
+		"start_pos": 33
+	},
+	"import_hosp_n_ANA12": {
+		"type": "text",
+		"end_pos": 34,
+		"start_pos": 34
+	},
+	"import_hosp_n_ANA13": {
+		"type": "text",
+		"end_pos": 35,
+		"start_pos": 35
+	},
+	"import_hosp_n_ANA14": {
+		"type": "text",
+		"end_pos": 36,
+		"start_pos": 36
+	},
+	"import_hosp_n_ANA15": {
+		"type": "text",
+		"end_pos": 37,
+		"start_pos": 37
+	},
+	"import_hosp_n_ANA16": {
+		"type": "text",
+		"end_pos": 38,
+		"start_pos": 38
+	},
+	"import_hosp_n_ANA17": {
+		"type": "text",
+		"end_pos": 39,
+		"start_pos": 39
+	},
+	"import_hosp_n_ANA18": {
+		"type": "text",
+		"end_pos": 40,
+		"start_pos": 40
+	},
+	"import_hosp_n_ANA19": {
+		"type": "text",
+		"end_pos": 41,
+		"start_pos": 41
+	},
+	"import_hosp_n_ANA20": {
+		"type": "text",
+		"end_pos": 42,
+		"start_pos": 42
+	},
+	"import_hosp_n_E_ANAS1": {
+		"type": "numeric",
+		"end_pos": 47,
+		"start_pos": 43
+	},
+	"import_hosp_n_E_ANAS2": {
+		"type": "numeric",
+		"end_pos": 52,
+		"start_pos": 48
+	},
+	"import_hosp_n_E_ANAS3": {
+		"type": "numeric",
+		"end_pos": 57,
+		"start_pos": 53
+	},
+	"import_hosp_n_E_ANAS4": {
+		"type": "numeric",
+		"end_pos": 62,
+		"start_pos": 58
+	},
+	"import_hosp_n_E_ANAS5": {
+		"type": "numeric",
+		"end_pos": 67,
+		"start_pos": 63
+	},
+	"import_hosp_n_E_ANAS6": {
+		"type": "numeric",
+		"end_pos": 72,
+		"start_pos": 68
+	},
+	"import_hosp_n_E_ANAS7": {
+		"type": "numeric",
+		"end_pos": 77,
+		"start_pos": 73
+	},
+	"import_hosp_n_E_ANAS8": {
+		"type": "numeric",
+		"end_pos": 82,
+		"start_pos": 78
+	},
+	"import_hosp_n_E_ANAS9": {
+		"type": "numeric",
+		"end_pos": 87,
+		"start_pos": 83
+	},
+	"import_hosp_n_E_ANAS10": {
+		"type": "numeric",
+		"end_pos": 92,
+		"start_pos": 88
+	},
+	"import_hosp_n_E_ANAS11": {
+		"type": "numeric",
+		"end_pos": 97,
+		"start_pos": 93
+	},
+	"import_hosp_n_E_ANAS12": {
+		"type": "numeric",
+		"end_pos": 102,
+		"start_pos": 98
+	},
+	"import_hosp_n_E_ANAS13": {
+		"type": "numeric",
+		"end_pos": 107,
+		"start_pos": 103
+	},
+	"import_hosp_n_E_ANAS14": {
+		"type": "numeric",
+		"end_pos": 112,
+		"start_pos": 108
+	},
+	"import_hosp_n_E_ANAS15": {
+		"type": "numeric",
+		"end_pos": 117,
+		"start_pos": 113
+	},
+	"import_hosp_n_E_ANAS16": {
+		"type": "numeric",
+		"end_pos": 122,
+		"start_pos": 118
+	},
+	"import_hosp_n_E_ANAS17": {
+		"type": "numeric",
+		"end_pos": 127,
+		"start_pos": 123
+	},
+	"import_hosp_n_E_ANAS18": {
+		"type": "numeric",
+		"end_pos": 132,
+		"start_pos": 128
+	},
+	"import_hosp_n_E_ANAS19": {
+		"type": "numeric",
+		"end_pos": 137,
+		"start_pos": 133
+	},
+	"import_hosp_n_E_ANAS20": {
+		"type": "numeric",
+		"end_pos": 142,
+		"start_pos": 138
+	},
+	"import_hosp_n_AR_DAYS": {
+		"type": "numeric",
+		"end_pos": 147,
+		"start_pos": 143
+	},
+	"import_hosp_n_BCLVLFRM": {
+		"type": "text",
+		"end_pos": 148,
+		"start_pos": 148
+	},
+	"import_hosp_n_BCLVLTO": {
+		"type": "text",
+		"end_pos": 149,
+		"start_pos": 149
+	},
+	"import_hosp_n_BIRTHWT": {
+		"type": "numeric",
+		"end_pos": 154,
+		"start_pos": 150
+	},
+	"import_hosp_n_BURNDAYS": {
+		"type": "numeric",
+		"end_pos": 159,
+		"start_pos": 155
+	},
+	"import_hosp_n_CARDDAYS": {
+		"type": "numeric",
+		"end_pos": 164,
+		"start_pos": 160
+	},
+	"import_hosp_n_CBDDAYS": {
+		"type": "numeric",
+		"end_pos": 169,
+		"start_pos": 165
+	},
+	"import_hosp_n_CCINDCTR": {
+		"type": "text",
+		"end_pos": 170,
+		"start_pos": 170
+	},
+	"import_hosp_n_CCUDAYS": {
+		"type": "numeric",
+		"end_pos": 175,
+		"start_pos": 171
+	},
+	"import_hosp_n_CDS00T98": {
+		"type": "text",
+		"end_pos": 182,
+		"start_pos": 176
+	},
+	"import_hosp_n_COMBDAYS": {
+		"type": "numeric",
+		"end_pos": 187,
+		"start_pos": 183
+	},
+	"import_hosp_n_COMBSDUDAYS": {
+		"type": "numeric",
+		"end_pos": 192,
+		"start_pos": 188
+	},
+	"import_hosp_n_DAYS1": {
+		"type": "numeric",
+		"end_pos": 197,
+		"start_pos": 193
+	},
+	"import_hosp_n_DAYS2": {
+		"type": "numeric",
+		"end_pos": 202,
+		"start_pos": 198
+	},
+	"import_hosp_n_DAYS3": {
+		"type": "numeric",
+		"end_pos": 207,
+		"start_pos": 203
+	},
+	"import_hosp_n_DIAGCLUS1": {
+		"type": "text",
+		"end_pos": 208,
+		"start_pos": 208
+	},
+	"import_hosp_n_DIAGCLUS2": {
+		"type": "text",
+		"end_pos": 209,
+		"start_pos": 209
+	},
+	"import_hosp_n_DIAGCLUS3": {
+		"type": "text",
+		"end_pos": 210,
+		"start_pos": 210
+	},
+	"import_hosp_n_DIAGCLUS4": {
+		"type": "text",
+		"end_pos": 211,
+		"start_pos": 211
+	},
+	"import_hosp_n_DIAGCLUS5": {
+		"type": "text",
+		"end_pos": 212,
+		"start_pos": 212
+	},
+	"import_hosp_n_DIAGCLUS6": {
+		"type": "text",
+		"end_pos": 213,
+		"start_pos": 213
+	},
+	"import_hosp_n_DIAGCLUS7": {
+		"type": "text",
+		"end_pos": 214,
+		"start_pos": 214
+	},
+	"import_hosp_n_DIAGCLUS8": {
+		"type": "text",
+		"end_pos": 215,
+		"start_pos": 215
+	},
+	"import_hosp_n_DIAGCLUS9": {
+		"type": "text",
+		"end_pos": 216,
+		"start_pos": 216
+	},
+	"import_hosp_n_DIAGCLUS10": {
+		"type": "text",
+		"end_pos": 217,
+		"start_pos": 217
+	},
+	"import_hosp_n_DIAGCLUS11": {
+		"type": "text",
+		"end_pos": 218,
+		"start_pos": 218
+	},
+	"import_hosp_n_DIAGCLUS12": {
+		"type": "text",
+		"end_pos": 219,
+		"start_pos": 219
+	},
+	"import_hosp_n_DIAGCLUS13": {
+		"type": "text",
+		"end_pos": 220,
+		"start_pos": 220
+	},
+	"import_hosp_n_DIAGCLUS14": {
+		"type": "text",
+		"end_pos": 221,
+		"start_pos": 221
+	},
+	"import_hosp_n_DIAGCLUS15": {
+		"type": "text",
+		"end_pos": 222,
+		"start_pos": 222
+	},
+	"import_hosp_n_DIAGCLUS16": {
+		"type": "text",
+		"end_pos": 223,
+		"start_pos": 223
+	},
+	"import_hosp_n_DIAGCLUS17": {
+		"type": "text",
+		"end_pos": 224,
+		"start_pos": 224
+	},
+	"import_hosp_n_DIAGCLUS18": {
+		"type": "text",
+		"end_pos": 225,
+		"start_pos": 225
+	},
+	"import_hosp_n_DIAGCLUS19": {
+		"type": "text",
+		"end_pos": 226,
+		"start_pos": 226
+	},
+	"import_hosp_n_DIAGCLUS20": {
+		"type": "text",
+		"end_pos": 227,
+		"start_pos": 227
+	},
+	"import_hosp_n_DIAGCLUS21": {
+		"type": "text",
+		"end_pos": 228,
+		"start_pos": 228
+	},
+	"import_hosp_n_DIAGCLUS22": {
+		"type": "text",
+		"end_pos": 229,
+		"start_pos": 229
+	},
+	"import_hosp_n_DIAGCLUS23": {
+		"type": "text",
+		"end_pos": 230,
+		"start_pos": 230
+	},
+	"import_hosp_n_DIAGCLUS24": {
+		"type": "text",
+		"end_pos": 231,
+		"start_pos": 231
+	},
+	"import_hosp_n_DIAGCLUS25": {
+		"type": "text",
+		"end_pos": 232,
+		"start_pos": 232
+	},
+	"import_hosp_n_DIAGX1": {
+		"type": "text",
+		"end_pos": 239,
+		"start_pos": 233
+	},
+	"import_hosp_n_DIAGX2": {
+		"type": "text",
+		"end_pos": 246,
+		"start_pos": 240
+	},
+	"import_hosp_n_DIAGX3": {
+		"type": "text",
+		"end_pos": 253,
+		"start_pos": 247
+	},
+	"import_hosp_n_DIAGX4": {
+		"type": "text",
+		"end_pos": 260,
+		"start_pos": 254
+	},
+	"import_hosp_n_DIAGX5": {
+		"type": "text",
+		"end_pos": 267,
+		"start_pos": 261
+	},
+	"import_hosp_n_DIAGX6": {
+		"type": "text",
+		"end_pos": 274,
+		"start_pos": 268
+	},
+	"import_hosp_n_DIAGX7": {
+		"type": "text",
+		"end_pos": 281,
+		"start_pos": 275
+	},
+	"import_hosp_n_DIAGX8": {
+		"type": "text",
+		"end_pos": 288,
+		"start_pos": 282
+	},
+	"import_hosp_n_DIAGX9": {
+		"type": "text",
+		"end_pos": 295,
+		"start_pos": 289
+	},
+	"import_hosp_n_DIAGX10": {
+		"type": "text",
+		"end_pos": 302,
+		"start_pos": 296
+	},
+	"import_hosp_n_DIAGX11": {
+		"type": "text",
+		"end_pos": 309,
+		"start_pos": 303
+	},
+	"import_hosp_n_DIAGX12": {
+		"type": "text",
+		"end_pos": 316,
+		"start_pos": 310
+	},
+	"import_hosp_n_DIAGX13": {
+		"type": "text",
+		"end_pos": 323,
+		"start_pos": 317
+	},
+	"import_hosp_n_DIAGX14": {
+		"type": "text",
+		"end_pos": 330,
+		"start_pos": 324
+	},
+	"import_hosp_n_DIAGX15": {
+		"type": "text",
+		"end_pos": 337,
+		"start_pos": 331
+	},
+	"import_hosp_n_DIAGX16": {
+		"type": "text",
+		"end_pos": 344,
+		"start_pos": 338
+	},
+	"import_hosp_n_DIAGX17": {
+		"type": "text",
+		"end_pos": 351,
+		"start_pos": 345
+	},
+	"import_hosp_n_DIAGX18": {
+		"type": "text",
+		"end_pos": 358,
+		"start_pos": 352
+	},
+	"import_hosp_n_DIAGX19": {
+		"type": "text",
+		"end_pos": 365,
+		"start_pos": 359
+	},
+	"import_hosp_n_DIAGX20": {
+		"type": "text",
+		"end_pos": 372,
+		"start_pos": 366
+	},
+	"import_hosp_n_DIAGX21": {
+		"type": "text",
+		"end_pos": 379,
+		"start_pos": 373
+	},
+	"import_hosp_n_DIAGX22": {
+		"type": "text",
+		"end_pos": 386,
+		"start_pos": 380
+	},
+	"import_hosp_n_DIAGX23": {
+		"type": "text",
+		"end_pos": 393,
+		"start_pos": 387
+	},
+	"import_hosp_n_DIAGX24": {
+		"type": "text",
+		"end_pos": 400,
+		"start_pos": 394
+	},
+	"import_hosp_n_DIAGX25": {
+		"type": "text",
+		"end_pos": 407,
+		"start_pos": 401
+	},
+	"import_hosp_n_DOC_SPEC": {
+		"type": "numeric",
+		"end_pos": 412,
+		"start_pos": 408
+	},
+	"import_hosp_n_DSC": {
+		"type": "numeric",
+		"end_pos": 415,
+		"start_pos": 413
+	},
+	"import_hosp_n_DTYPX1": {
+		"type": "text",
+		"end_pos": 416,
+		"start_pos": 416
+	},
+	"import_hosp_n_DTYPX2": {
+		"type": "text",
+		"end_pos": 417,
+		"start_pos": 417
+	},
+	"import_hosp_n_DTYPX3": {
+		"type": "text",
+		"end_pos": 418,
+		"start_pos": 418
+	},
+	"import_hosp_n_DTYPX4": {
+		"type": "text",
+		"end_pos": 419,
+		"start_pos": 419
+	},
+	"import_hosp_n_DTYPX5": {
+		"type": "text",
+		"end_pos": 420,
+		"start_pos": 420
+	},
+	"import_hosp_n_DTYPX6": {
+		"type": "text",
+		"end_pos": 421,
+		"start_pos": 421
+	},
+	"import_hosp_n_DTYPX7": {
+		"type": "text",
+		"end_pos": 422,
+		"start_pos": 422
+	},
+	"import_hosp_n_DTYPX8": {
+		"type": "text",
+		"end_pos": 423,
+		"start_pos": 423
+	},
+	"import_hosp_n_DTYPX9": {
+		"type": "text",
+		"end_pos": 424,
+		"start_pos": 424
+	},
+	"import_hosp_n_DTYPX10": {
+		"type": "text",
+		"end_pos": 425,
+		"start_pos": 425
+	},
+	"import_hosp_n_DTYPX11": {
+		"type": "text",
+		"end_pos": 426,
+		"start_pos": 426
+	},
+	"import_hosp_n_DTYPX12": {
+		"type": "text",
+		"end_pos": 427,
+		"start_pos": 427
+	},
+	"import_hosp_n_DTYPX13": {
+		"type": "text",
+		"end_pos": 428,
+		"start_pos": 428
+	},
+	"import_hosp_n_DTYPX14": {
+		"type": "text",
+		"end_pos": 429,
+		"start_pos": 429
+	},
+	"import_hosp_n_DTYPX15": {
+		"type": "text",
+		"end_pos": 430,
+		"start_pos": 430
+	},
+	"import_hosp_n_DTYPX16": {
+		"type": "text",
+		"end_pos": 431,
+		"start_pos": 431
+	},
+	"import_hosp_n_DTYPX17": {
+		"type": "text",
+		"end_pos": 432,
+		"start_pos": 432
+	},
+	"import_hosp_n_DTYPX18": {
+		"type": "text",
+		"end_pos": 433,
+		"start_pos": 433
+	},
+	"import_hosp_n_DTYPX19": {
+		"type": "text",
+		"end_pos": 434,
+		"start_pos": 434
+	},
+	"import_hosp_n_DTYPX20": {
+		"type": "text",
+		"end_pos": 435,
+		"start_pos": 435
+	},
+	"import_hosp_n_DTYPX21": {
+		"type": "text",
+		"end_pos": 436,
+		"start_pos": 436
+	},
+	"import_hosp_n_DTYPX22": {
+		"type": "text",
+		"end_pos": 437,
+		"start_pos": 437
+	},
+	"import_hosp_n_DTYPX23": {
+		"type": "text",
+		"end_pos": 438,
+		"start_pos": 438
+	},
+	"import_hosp_n_DTYPX24": {
+		"type": "text",
+		"end_pos": 439,
+		"start_pos": 439
+	},
+	"import_hosp_n_DTYPX25": {
+		"type": "text",
+		"end_pos": 440,
+		"start_pos": 440
+	},
+	"import_hosp_n_ECODEX1": {
+		"type": "text",
+		"end_pos": 447,
+		"start_pos": 441
+	},
+	"import_hosp_n_EDREGDATE": {
+		"type": "DATE",
+		"end_pos": 457,
+		"start_pos": 448,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_EDREGTIME": {
+		"type": "TIME",
+		"end_pos": 462,
+		"start_pos": 458,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_ENTRY": {
+		"type": "text",
+		"end_pos": 463,
+		"start_pos": 463
+	},
+	"import_hosp_n_EPnumeric1": {
+		"type": "numeric",
+		"end_pos": 465,
+		"start_pos": 464
+	},
+	"import_hosp_n_EPnumeric2": {
+		"type": "numeric",
+		"end_pos": 467,
+		"start_pos": 466
+	},
+	"import_hosp_n_EPnumeric3": {
+		"type": "numeric",
+		"end_pos": 469,
+		"start_pos": 468
+	},
+	"import_hosp_n_EPnumeric4": {
+		"type": "numeric",
+		"end_pos": 471,
+		"start_pos": 470
+	},
+	"import_hosp_n_EPnumeric5": {
+		"type": "numeric",
+		"end_pos": 473,
+		"start_pos": 472
+	},
+	"import_hosp_n_EPnumeric6": {
+		"type": "numeric",
+		"end_pos": 475,
+		"start_pos": 474
+	},
+	"import_hosp_n_EPnumeric7": {
+		"type": "numeric",
+		"end_pos": 477,
+		"start_pos": 476
+	},
+	"import_hosp_n_EPnumeric8": {
+		"type": "numeric",
+		"end_pos": 479,
+		"start_pos": 478
+	},
+	"import_hosp_n_EPnumeric9": {
+		"type": "numeric",
+		"end_pos": 481,
+		"start_pos": 480
+	},
+	"import_hosp_n_EPnumeric10": {
+		"type": "numeric",
+		"end_pos": 483,
+		"start_pos": 482
+	},
+	"import_hosp_n_EPnumeric11": {
+		"type": "numeric",
+		"end_pos": 485,
+		"start_pos": 484
+	},
+	"import_hosp_n_EPnumeric12": {
+		"type": "numeric",
+		"end_pos": 487,
+		"start_pos": 486
+	},
+	"import_hosp_n_EPnumeric13": {
+		"type": "numeric",
+		"end_pos": 489,
+		"start_pos": 488
+	},
+	"import_hosp_n_EPnumeric14": {
+		"type": "numeric",
+		"end_pos": 491,
+		"start_pos": 490
+	},
+	"import_hosp_n_EPnumeric15": {
+		"type": "numeric",
+		"end_pos": 493,
+		"start_pos": 492
+	},
+	"import_hosp_n_EPnumeric16": {
+		"type": "numeric",
+		"end_pos": 495,
+		"start_pos": 494
+	},
+	"import_hosp_n_EPnumeric17": {
+		"type": "numeric",
+		"end_pos": 497,
+		"start_pos": 496
+	},
+	"import_hosp_n_EPnumeric18": {
+		"type": "numeric",
+		"end_pos": 499,
+		"start_pos": 498
+	},
+	"import_hosp_n_EPnumeric19": {
+		"type": "numeric",
+		"end_pos": 501,
+		"start_pos": 500
+	},
+	"import_hosp_n_EPnumeric20": {
+		"type": "numeric",
+		"end_pos": 503,
+		"start_pos": 502
+	},
+	"import_hosp_n_EPSEQ1": {
+		"type": "numeric",
+		"end_pos": 505,
+		"start_pos": 504
+	},
+	"import_hosp_n_EPSEQ2": {
+		"type": "numeric",
+		"end_pos": 507,
+		"start_pos": 506
+	},
+	"import_hosp_n_EPSEQ3": {
+		"type": "numeric",
+		"end_pos": 509,
+		"start_pos": 508
+	},
+	"import_hosp_n_EPSEQ4": {
+		"type": "numeric",
+		"end_pos": 511,
+		"start_pos": 510
+	},
+	"import_hosp_n_EPSEQ5": {
+		"type": "numeric",
+		"end_pos": 513,
+		"start_pos": 512
+	},
+	"import_hosp_n_EPSEQ6": {
+		"type": "numeric",
+		"end_pos": 515,
+		"start_pos": 514
+	},
+	"import_hosp_n_EPSEQ7": {
+		"type": "numeric",
+		"end_pos": 517,
+		"start_pos": 516
+	},
+	"import_hosp_n_EPSEQ8": {
+		"type": "numeric",
+		"end_pos": 519,
+		"start_pos": 518
+	},
+	"import_hosp_n_EPSEQ9": {
+		"type": "numeric",
+		"end_pos": 521,
+		"start_pos": 520
+	},
+	"import_hosp_n_EPSEQ10": {
+		"type": "numeric",
+		"end_pos": 523,
+		"start_pos": 522
+	},
+	"import_hosp_n_EPSEQ11": {
+		"type": "numeric",
+		"end_pos": 525,
+		"start_pos": 524
+	},
+	"import_hosp_n_EPSEQ12": {
+		"type": "numeric",
+		"end_pos": 527,
+		"start_pos": 526
+	},
+	"import_hosp_n_EPSEQ13": {
+		"type": "numeric",
+		"end_pos": 529,
+		"start_pos": 528
+	},
+	"import_hosp_n_EPSEQ14": {
+		"type": "numeric",
+		"end_pos": 531,
+		"start_pos": 530
+	},
+	"import_hosp_n_EPSEQ15": {
+		"type": "numeric",
+		"end_pos": 533,
+		"start_pos": 532
+	},
+	"import_hosp_n_EPSEQ16": {
+		"type": "numeric",
+		"end_pos": 535,
+		"start_pos": 534
+	},
+	"import_hosp_n_EPSEQ17": {
+		"type": "numeric",
+		"end_pos": 537,
+		"start_pos": 536
+	},
+	"import_hosp_n_EPSEQ18": {
+		"type": "numeric",
+		"end_pos": 539,
+		"start_pos": 538
+	},
+	"import_hosp_n_EPSEQ19": {
+		"type": "numeric",
+		"end_pos": 541,
+		"start_pos": 540
+	},
+	"import_hosp_n_EPSEQ20": {
+		"type": "numeric",
+		"end_pos": 543,
+		"start_pos": 542
+	},
+	"import_hosp_n_GESTAD": {
+		"type": "numeric",
+		"end_pos": 545,
+		"start_pos": 544
+	},
+	"import_hosp_n_GESTDEL": {
+		"type": "numeric",
+		"end_pos": 547,
+		"start_pos": 546
+	},
+	"import_hosp_n_GESTDIS": {
+		"type": "numeric",
+		"end_pos": 549,
+		"start_pos": 548
+	},
+	"import_hosp_n_HCNPROV": {
+		"type": "text",
+		"end_pos": 551,
+		"start_pos": 550
+	},
+	"import_hosp_n_HOSP": {
+		"type": "numeric",
+		"end_pos": 554,
+		"start_pos": 552
+	},
+	"import_hosp_n_HOSPFROM": {
+		"type": "numeric",
+		"end_pos": 557,
+		"start_pos": 555
+	},
+	"import_hosp_n_HOSPPROV": {
+		"type": "text",
+		"end_pos": 558,
+		"start_pos": 558
+	},
+	"import_hosp_n_HOSPTO": {
+		"type": "numeric",
+		"end_pos": 561,
+		"start_pos": 559
+	},
+	"import_hosp_n_ICODE1": {
+		"type": "text",
+		"end_pos": 571,
+		"start_pos": 562
+	},
+	"import_hosp_n_ICODE2": {
+		"type": "text",
+		"end_pos": 581,
+		"start_pos": 572
+	},
+	"import_hosp_n_ICODE3": {
+		"type": "text",
+		"end_pos": 591,
+		"start_pos": 582
+	},
+	"import_hosp_n_ICODE4": {
+		"type": "text",
+		"end_pos": 601,
+		"start_pos": 592
+	},
+	"import_hosp_n_ICODE5": {
+		"type": "text",
+		"end_pos": 611,
+		"start_pos": 602
+	},
+	"import_hosp_n_ICODE6": {
+		"type": "text",
+		"end_pos": 621,
+		"start_pos": 612
+	},
+	"import_hosp_n_ICODE7": {
+		"type": "text",
+		"end_pos": 631,
+		"start_pos": 622
+	},
+	"import_hosp_n_ICODE8": {
+		"type": "text",
+		"end_pos": 641,
+		"start_pos": 632
+	},
+	"import_hosp_n_ICODE9": {
+		"type": "text",
+		"end_pos": 651,
+		"start_pos": 642
+	},
+	"import_hosp_n_ICODE10": {
+		"type": "text",
+		"end_pos": 661,
+		"start_pos": 652
+	},
+	"import_hosp_n_ICODE11": {
+		"type": "text",
+		"end_pos": 671,
+		"start_pos": 662
+	},
+	"import_hosp_n_ICODE12": {
+		"type": "text",
+		"end_pos": 681,
+		"start_pos": 672
+	},
+	"import_hosp_n_ICODE13": {
+		"type": "text",
+		"end_pos": 691,
+		"start_pos": 682
+	},
+	"import_hosp_n_ICODE14": {
+		"type": "text",
+		"end_pos": 701,
+		"start_pos": 692
+	},
+	"import_hosp_n_ICODE15": {
+		"type": "text",
+		"end_pos": 711,
+		"start_pos": 702
+	},
+	"import_hosp_n_ICODE16": {
+		"type": "text",
+		"end_pos": 721,
+		"start_pos": 712
+	},
+	"import_hosp_n_ICODE17": {
+		"type": "text",
+		"end_pos": 731,
+		"start_pos": 722
+	},
+	"import_hosp_n_ICODE18": {
+		"type": "text",
+		"end_pos": 741,
+		"start_pos": 732
+	},
+	"import_hosp_n_ICODE19": {
+		"type": "text",
+		"end_pos": 751,
+		"start_pos": 742
+	},
+	"import_hosp_n_ICODE20": {
+		"type": "text",
+		"end_pos": 761,
+		"start_pos": 752
+	},
+	"import_hosp_n_ICUDAYS": {
+		"type": "numeric",
+		"end_pos": 766,
+		"start_pos": 762
+	},
+	"import_hosp_n_IDUR1": {
+		"type": "numeric",
+		"end_pos": 770,
+		"start_pos": 767
+	},
+	"import_hosp_n_IDUR2": {
+		"type": "numeric",
+		"end_pos": 774,
+		"start_pos": 771
+	},
+	"import_hosp_n_IDUR3": {
+		"type": "numeric",
+		"end_pos": 778,
+		"start_pos": 775
+	},
+	"import_hosp_n_IDUR4": {
+		"type": "numeric",
+		"end_pos": 782,
+		"start_pos": 779
+	},
+	"import_hosp_n_IDUR5": {
+		"type": "numeric",
+		"end_pos": 786,
+		"start_pos": 783
+	},
+	"import_hosp_n_IDUR6": {
+		"type": "numeric",
+		"end_pos": 790,
+		"start_pos": 787
+	},
+	"import_hosp_n_IDUR7": {
+		"type": "numeric",
+		"end_pos": 794,
+		"start_pos": 791
+	},
+	"import_hosp_n_IDUR8": {
+		"type": "numeric",
+		"end_pos": 798,
+		"start_pos": 795
+	},
+	"import_hosp_n_IDUR9": {
+		"type": "numeric",
+		"end_pos": 802,
+		"start_pos": 799
+	},
+	"import_hosp_n_IDUR10": {
+		"type": "numeric",
+		"end_pos": 806,
+		"start_pos": 803
+	},
+	"import_hosp_n_IDUR11": {
+		"type": "numeric",
+		"end_pos": 810,
+		"start_pos": 807
+	},
+	"import_hosp_n_IDUR12": {
+		"type": "numeric",
+		"end_pos": 814,
+		"start_pos": 811
+	},
+	"import_hosp_n_IDUR13": {
+		"type": "numeric",
+		"end_pos": 818,
+		"start_pos": 815
+	},
+	"import_hosp_n_IDUR14": {
+		"type": "numeric",
+		"end_pos": 822,
+		"start_pos": 819
+	},
+	"import_hosp_n_IDUR15": {
+		"type": "numeric",
+		"end_pos": 826,
+		"start_pos": 823
+	},
+	"import_hosp_n_IDUR16": {
+		"type": "numeric",
+		"end_pos": 830,
+		"start_pos": 827
+	},
+	"import_hosp_n_IDUR17": {
+		"type": "numeric",
+		"end_pos": 834,
+		"start_pos": 831
+	},
+	"import_hosp_n_IDUR18": {
+		"type": "numeric",
+		"end_pos": 838,
+		"start_pos": 835
+	},
+	"import_hosp_n_IDUR19": {
+		"type": "numeric",
+		"end_pos": 842,
+		"start_pos": 839
+	},
+	"import_hosp_n_IDUR20": {
+		"type": "numeric",
+		"end_pos": 846,
+		"start_pos": 843
+	},
+	"import_hosp_n_IENDDATE1": {
+		"type": "date",
+		"end_pos": 856,
+		"start_pos": 847,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_IENDDATE2": {
+		"type": "date",
+		"end_pos": 866,
+		"start_pos": 857,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_IENDDATE3": {
+		"type": "date",
+		"end_pos": 876,
+		"start_pos": 867,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_IENDDATE4": {
+		"type": "date",
+		"end_pos": 886,
+		"start_pos": 877,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_IENDDATE5": {
+		"type": "date",
+		"end_pos": 896,
+		"start_pos": 887,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_IENDDATE6": {
+		"type": "date",
+		"end_pos": 906,
+		"start_pos": 897,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_IENDDATE7": {
+		"type": "date",
+		"end_pos": 916,
+		"start_pos": 907,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_IENDDATE8": {
+		"type": "date",
+		"end_pos": 926,
+		"start_pos": 917,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_IENDDATE9": {
+		"type": "date",
+		"end_pos": 936,
+		"start_pos": 927,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_IENDDATE10": {
+		"type": "date",
+		"end_pos": 946,
+		"start_pos": 937,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_IENDDATE11": {
+		"type": "date",
+		"end_pos": 956,
+		"start_pos": 947,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_IENDDATE12": {
+		"type": "date",
+		"end_pos": 966,
+		"start_pos": 957,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_IENDDATE13": {
+		"type": "date",
+		"end_pos": 976,
+		"start_pos": 967,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_IENDDATE14": {
+		"type": "date",
+		"end_pos": 986,
+		"start_pos": 977,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_IENDDATE15": {
+		"type": "date",
+		"end_pos": 996,
+		"start_pos": 987,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_IENDDATE16": {
+		"type": "date",
+		"end_pos": 1006,
+		"start_pos": 997,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_IENDDATE17": {
+		"type": "date",
+		"end_pos": 1016,
+		"start_pos": 1007,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_IENDDATE18": {
+		"type": "date",
+		"end_pos": 1026,
+		"start_pos": 1017,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_IENDDATE19": {
+		"type": "date",
+		"end_pos": 1036,
+		"start_pos": 1027,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_IENDDATE20": {
+		"type": "date",
+		"end_pos": 1046,
+		"start_pos": 1037,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_IENDTIME1": {
+		"type": "time",
+		"end_pos": 1051,
+		"start_pos": 1047,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_IENDTIME2": {
+		"type": "time",
+		"end_pos": 1056,
+		"start_pos": 1052,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_IENDTIME3": {
+		"type": "time",
+		"end_pos": 1061,
+		"start_pos": 1057,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_IENDTIME4": {
+		"type": "time",
+		"end_pos": 1066,
+		"start_pos": 1062,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_IENDTIME5": {
+		"type": "time",
+		"end_pos": 1071,
+		"start_pos": 1067,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_IENDTIME6": {
+		"type": "time",
+		"end_pos": 1076,
+		"start_pos": 1072,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_IENDTIME7": {
+		"type": "time",
+		"end_pos": 1081,
+		"start_pos": 1077,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_IENDTIME8": {
+		"type": "time",
+		"end_pos": 1086,
+		"start_pos": 1082,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_IENDTIME9": {
+		"type": "time",
+		"end_pos": 1091,
+		"start_pos": 1087,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_IENDTIME10": {
+		"type": "time",
+		"end_pos": 1096,
+		"start_pos": 1092,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_IENDTIME11": {
+		"type": "time",
+		"end_pos": 1101,
+		"start_pos": 1097,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_IENDTIME12": {
+		"type": "time",
+		"end_pos": 1106,
+		"start_pos": 1102,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_IENDTIME13": {
+		"type": "time",
+		"end_pos": 1111,
+		"start_pos": 1107,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_IENDTIME14": {
+		"type": "time",
+		"end_pos": 1116,
+		"start_pos": 1112,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_IENDTIME15": {
+		"type": "time",
+		"end_pos": 1121,
+		"start_pos": 1117,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_IENDTIME16": {
+		"type": "time",
+		"end_pos": 1126,
+		"start_pos": 1122,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_IENDTIME17": {
+		"type": "time",
+		"end_pos": 1131,
+		"start_pos": 1127,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_IENDTIME18": {
+		"type": "time",
+		"end_pos": 1136,
+		"start_pos": 1132,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_IENDTIME19": {
+		"type": "time",
+		"end_pos": 1141,
+		"start_pos": 1137,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_IENDTIME20": {
+		"type": "time",
+		"end_pos": 1146,
+		"start_pos": 1142,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_IEXT1": {
+		"type": "text",
+		"end_pos": 1148,
+		"start_pos": 1147
+	},
+	"import_hosp_n_IEXT2": {
+		"type": "text",
+		"end_pos": 1150,
+		"start_pos": 1149
+	},
+	"import_hosp_n_IEXT3": {
+		"type": "text",
+		"end_pos": 1152,
+		"start_pos": 1151
+	},
+	"import_hosp_n_IEXT4": {
+		"type": "text",
+		"end_pos": 1154,
+		"start_pos": 1153
+	},
+	"import_hosp_n_IEXT5": {
+		"type": "text",
+		"end_pos": 1156,
+		"start_pos": 1155
+	},
+	"import_hosp_n_IEXT6": {
+		"type": "text",
+		"end_pos": 1158,
+		"start_pos": 1157
+	},
+	"import_hosp_n_IEXT7": {
+		"type": "text",
+		"end_pos": 1160,
+		"start_pos": 1159
+	},
+	"import_hosp_n_IEXT8": {
+		"type": "text",
+		"end_pos": 1162,
+		"start_pos": 1161
+	},
+	"import_hosp_n_IEXT9": {
+		"type": "text",
+		"end_pos": 1164,
+		"start_pos": 1163
+	},
+	"import_hosp_n_IEXT10": {
+		"type": "text",
+		"end_pos": 1166,
+		"start_pos": 1165
+	},
+	"import_hosp_n_IEXT11": {
+		"type": "text",
+		"end_pos": 1168,
+		"start_pos": 1167
+	},
+	"import_hosp_n_IEXT12": {
+		"type": "text",
+		"end_pos": 1170,
+		"start_pos": 1169
+	},
+	"import_hosp_n_IEXT13": {
+		"type": "text",
+		"end_pos": 1172,
+		"start_pos": 1171
+	},
+	"import_hosp_n_IEXT14": {
+		"type": "text",
+		"end_pos": 1174,
+		"start_pos": 1173
+	},
+	"import_hosp_n_IEXT15": {
+		"type": "text",
+		"end_pos": 1176,
+		"start_pos": 1175
+	},
+	"import_hosp_n_IEXT16": {
+		"type": "text",
+		"end_pos": 1178,
+		"start_pos": 1177
+	},
+	"import_hosp_n_IEXT17": {
+		"type": "text",
+		"end_pos": 1180,
+		"start_pos": 1179
+	},
+	"import_hosp_n_IEXT18": {
+		"type": "text",
+		"end_pos": 1182,
+		"start_pos": 1181
+	},
+	"import_hosp_n_IEXT19": {
+		"type": "text",
+		"end_pos": 1184,
+		"start_pos": 1183
+	},
+	"import_hosp_n_IEXT20": {
+		"type": "text",
+		"end_pos": 1186,
+		"start_pos": 1185
+	},
+	"import_hosp_n_INJPLACE": {
+		"type": "text",
+		"end_pos": 1193,
+		"start_pos": 1187
+	},
+	"import_hosp_n_IOOH1": {
+		"type": "text",
+		"end_pos": 1194,
+		"start_pos": 1194
+	},
+	"import_hosp_n_IOOH2": {
+		"type": "text",
+		"end_pos": 1195,
+		"start_pos": 1195
+	},
+	"import_hosp_n_IOOH3": {
+		"type": "text",
+		"end_pos": 1196,
+		"start_pos": 1196
+	},
+	"import_hosp_n_IOOH4": {
+		"type": "text",
+		"end_pos": 1197,
+		"start_pos": 1197
+	},
+	"import_hosp_n_IOOH5": {
+		"type": "text",
+		"end_pos": 1198,
+		"start_pos": 1198
+	},
+	"import_hosp_n_IOOH6": {
+		"type": "text",
+		"end_pos": 1199,
+		"start_pos": 1199
+	},
+	"import_hosp_n_IOOH7": {
+		"type": "text",
+		"end_pos": 1200,
+		"start_pos": 1200
+	},
+	"import_hosp_n_IOOH8": {
+		"type": "text",
+		"end_pos": 1201,
+		"start_pos": 1201
+	},
+	"import_hosp_n_IOOH9": {
+		"type": "text",
+		"end_pos": 1202,
+		"start_pos": 1202
+	},
+	"import_hosp_n_IOOH10": {
+		"type": "text",
+		"end_pos": 1203,
+		"start_pos": 1203
+	},
+	"import_hosp_n_IOOH11": {
+		"type": "text",
+		"end_pos": 1204,
+		"start_pos": 1204
+	},
+	"import_hosp_n_IOOH12": {
+		"type": "text",
+		"end_pos": 1205,
+		"start_pos": 1205
+	},
+	"import_hosp_n_IOOH13": {
+		"type": "text",
+		"end_pos": 1206,
+		"start_pos": 1206
+	},
+	"import_hosp_n_IOOH14": {
+		"type": "text",
+		"end_pos": 1207,
+		"start_pos": 1207
+	},
+	"import_hosp_n_IOOH15": {
+		"type": "text",
+		"end_pos": 1208,
+		"start_pos": 1208
+	},
+	"import_hosp_n_IOOH16": {
+		"type": "text",
+		"end_pos": 1209,
+		"start_pos": 1209
+	},
+	"import_hosp_n_IOOH17": {
+		"type": "text",
+		"end_pos": 1210,
+		"start_pos": 1210
+	},
+	"import_hosp_n_IOOH18": {
+		"type": "text",
+		"end_pos": 1211,
+		"start_pos": 1211
+	},
+	"import_hosp_n_IOOH19": {
+		"type": "text",
+		"end_pos": 1212,
+		"start_pos": 1212
+	},
+	"import_hosp_n_IOOH20": {
+		"type": "text",
+		"end_pos": 1213,
+		"start_pos": 1213
+	},
+	"import_hosp_n_IOOHNM1": {
+		"type": "text",
+		"end_pos": 1218,
+		"start_pos": 1214
+	},
+	"import_hosp_n_IOOHNM2": {
+		"type": "text",
+		"end_pos": 1223,
+		"start_pos": 1219
+	},
+	"import_hosp_n_IOOHNM3": {
+		"type": "text",
+		"end_pos": 1228,
+		"start_pos": 1224
+	},
+	"import_hosp_n_IOOHNM4": {
+		"type": "text",
+		"end_pos": 1233,
+		"start_pos": 1229
+	},
+	"import_hosp_n_IOOHNM5": {
+		"type": "text",
+		"end_pos": 1238,
+		"start_pos": 1234
+	},
+	"import_hosp_n_IOOHNM6": {
+		"type": "text",
+		"end_pos": 1243,
+		"start_pos": 1239
+	},
+	"import_hosp_n_IOOHNM7": {
+		"type": "text",
+		"end_pos": 1248,
+		"start_pos": 1244
+	},
+	"import_hosp_n_IOOHNM8": {
+		"type": "text",
+		"end_pos": 1253,
+		"start_pos": 1249
+	},
+	"import_hosp_n_IOOHNM9": {
+		"type": "text",
+		"end_pos": 1258,
+		"start_pos": 1254
+	},
+	"import_hosp_n_IOOHNM10": {
+		"type": "text",
+		"end_pos": 1263,
+		"start_pos": 1259
+	},
+	"import_hosp_n_IOOHNM11": {
+		"type": "text",
+		"end_pos": 1268,
+		"start_pos": 1264
+	},
+	"import_hosp_n_IOOHNM12": {
+		"type": "text",
+		"end_pos": 1273,
+		"start_pos": 1269
+	},
+	"import_hosp_n_IOOHNM13": {
+		"type": "text",
+		"end_pos": 1278,
+		"start_pos": 1274
+	},
+	"import_hosp_n_IOOHNM14": {
+		"type": "text",
+		"end_pos": 1283,
+		"start_pos": 1279
+	},
+	"import_hosp_n_IOOHNM15": {
+		"type": "text",
+		"end_pos": 1288,
+		"start_pos": 1284
+	},
+	"import_hosp_n_IOOHNM16": {
+		"type": "text",
+		"end_pos": 1293,
+		"start_pos": 1289
+	},
+	"import_hosp_n_IOOHNM17": {
+		"type": "text",
+		"end_pos": 1298,
+		"start_pos": 1294
+	},
+	"import_hosp_n_IOOHNM18": {
+		"type": "text",
+		"end_pos": 1303,
+		"start_pos": 1299
+	},
+	"import_hosp_n_IOOHNM19": {
+		"type": "text",
+		"end_pos": 1308,
+		"start_pos": 1304
+	},
+	"import_hosp_n_IOOHNM20": {
+		"type": "text",
+		"end_pos": 1313,
+		"start_pos": 1309
+	},
+	"import_hosp_n_IPREADMIT1": {
+		"type": "text",
+		"end_pos": 1314,
+		"start_pos": 1314
+	},
+	"import_hosp_n_IPREADMIT2": {
+		"type": "text",
+		"end_pos": 1315,
+		"start_pos": 1315
+	},
+	"import_hosp_n_IPREADMIT3": {
+		"type": "text",
+		"end_pos": 1316,
+		"start_pos": 1316
+	},
+	"import_hosp_n_IPREADMIT4": {
+		"type": "text",
+		"end_pos": 1317,
+		"start_pos": 1317
+	},
+	"import_hosp_n_IPREADMIT5": {
+		"type": "text",
+		"end_pos": 1318,
+		"start_pos": 1318
+	},
+	"import_hosp_n_IPREADMIT6": {
+		"type": "text",
+		"end_pos": 1319,
+		"start_pos": 1319
+	},
+	"import_hosp_n_IPREADMIT7": {
+		"type": "text",
+		"end_pos": 1320,
+		"start_pos": 1320
+	},
+	"import_hosp_n_IPREADMIT8": {
+		"type": "text",
+		"end_pos": 1321,
+		"start_pos": 1321
+	},
+	"import_hosp_n_IPREADMIT9": {
+		"type": "text",
+		"end_pos": 1322,
+		"start_pos": 1322
+	},
+	"import_hosp_n_IPREADMIT10": {
+		"type": "text",
+		"end_pos": 1323,
+		"start_pos": 1323
+	},
+	"import_hosp_n_IPREADMIT11": {
+		"type": "text",
+		"end_pos": 1324,
+		"start_pos": 1324
+	},
+	"import_hosp_n_IPREADMIT12": {
+		"type": "text",
+		"end_pos": 1325,
+		"start_pos": 1325
+	},
+	"import_hosp_n_IPREADMIT13": {
+		"type": "text",
+		"end_pos": 1326,
+		"start_pos": 1326
+	},
+	"import_hosp_n_IPREADMIT14": {
+		"type": "text",
+		"end_pos": 1327,
+		"start_pos": 1327
+	},
+	"import_hosp_n_IPREADMIT15": {
+		"type": "text",
+		"end_pos": 1328,
+		"start_pos": 1328
+	},
+	"import_hosp_n_IPREADMIT16": {
+		"type": "text",
+		"end_pos": 1329,
+		"start_pos": 1329
+	},
+	"import_hosp_n_IPREADMIT17": {
+		"type": "text",
+		"end_pos": 1330,
+		"start_pos": 1330
+	},
+	"import_hosp_n_IPREADMIT18": {
+		"type": "text",
+		"end_pos": 1331,
+		"start_pos": 1331
+	},
+	"import_hosp_n_IPREADMIT19": {
+		"type": "text",
+		"end_pos": 1332,
+		"start_pos": 1332
+	},
+	"import_hosp_n_IPREADMIT20": {
+		"type": "text",
+		"end_pos": 1333,
+		"start_pos": 1333
+	},
+	"import_hosp_n_IRETRN1": {
+		"type": "text",
+		"end_pos": 1334,
+		"start_pos": 1334
+	},
+	"import_hosp_n_IRETRN2": {
+		"type": "text",
+		"end_pos": 1335,
+		"start_pos": 1335
+	},
+	"import_hosp_n_IRETRN3": {
+		"type": "text",
+		"end_pos": 1336,
+		"start_pos": 1336
+	},
+	"import_hosp_n_IRETRN4": {
+		"type": "text",
+		"end_pos": 1337,
+		"start_pos": 1337
+	},
+	"import_hosp_n_IRETRN5": {
+		"type": "text",
+		"end_pos": 1338,
+		"start_pos": 1338
+	},
+	"import_hosp_n_IRETRN6": {
+		"type": "text",
+		"end_pos": 1339,
+		"start_pos": 1339
+	},
+	"import_hosp_n_IRETRN7": {
+		"type": "text",
+		"end_pos": 1340,
+		"start_pos": 1340
+	},
+	"import_hosp_n_IRETRN8": {
+		"type": "text",
+		"end_pos": 1341,
+		"start_pos": 1341
+	},
+	"import_hosp_n_IRETRN9": {
+		"type": "text",
+		"end_pos": 1342,
+		"start_pos": 1342
+	},
+	"import_hosp_n_IRETRN10": {
+		"type": "text",
+		"end_pos": 1343,
+		"start_pos": 1343
+	},
+	"import_hosp_n_IRETRN11": {
+		"type": "text",
+		"end_pos": 1344,
+		"start_pos": 1344
+	},
+	"import_hosp_n_IRETRN12": {
+		"type": "text",
+		"end_pos": 1345,
+		"start_pos": 1345
+	},
+	"import_hosp_n_IRETRN13": {
+		"type": "text",
+		"end_pos": 1346,
+		"start_pos": 1346
+	},
+	"import_hosp_n_IRETRN14": {
+		"type": "text",
+		"end_pos": 1347,
+		"start_pos": 1347
+	},
+	"import_hosp_n_IRETRN15": {
+		"type": "text",
+		"end_pos": 1348,
+		"start_pos": 1348
+	},
+	"import_hosp_n_IRETRN16": {
+		"type": "text",
+		"end_pos": 1349,
+		"start_pos": 1349
+	},
+	"import_hosp_n_IRETRN17": {
+		"type": "text",
+		"end_pos": 1350,
+		"start_pos": 1350
+	},
+	"import_hosp_n_IRETRN18": {
+		"type": "text",
+		"end_pos": 1351,
+		"start_pos": 1351
+	},
+	"import_hosp_n_IRETRN19": {
+		"type": "text",
+		"end_pos": 1352,
+		"start_pos": 1352
+	},
+	"import_hosp_n_IRETRN20": {
+		"type": "text",
+		"end_pos": 1353,
+		"start_pos": 1353
+	},
+	"import_hosp_n_ISITE1": {
+		"type": "text",
+		"end_pos": 1355,
+		"start_pos": 1354
+	},
+	"import_hosp_n_ISITE2": {
+		"type": "text",
+		"end_pos": 1357,
+		"start_pos": 1356
+	},
+	"import_hosp_n_ISITE3": {
+		"type": "text",
+		"end_pos": 1359,
+		"start_pos": 1358
+	},
+	"import_hosp_n_ISITE4": {
+		"type": "text",
+		"end_pos": 1361,
+		"start_pos": 1360
+	},
+	"import_hosp_n_ISITE5": {
+		"type": "text",
+		"end_pos": 1363,
+		"start_pos": 1362
+	},
+	"import_hosp_n_ISITE6": {
+		"type": "text",
+		"end_pos": 1365,
+		"start_pos": 1364
+	},
+	"import_hosp_n_ISITE7": {
+		"type": "text",
+		"end_pos": 1367,
+		"start_pos": 1366
+	},
+	"import_hosp_n_ISITE8": {
+		"type": "text",
+		"end_pos": 1369,
+		"start_pos": 1368
+	},
+	"import_hosp_n_ISITE9": {
+		"type": "text",
+		"end_pos": 1371,
+		"start_pos": 1370
+	},
+	"import_hosp_n_ISITE10": {
+		"type": "text",
+		"end_pos": 1373,
+		"start_pos": 1372
+	},
+	"import_hosp_n_ISITE11": {
+		"type": "text",
+		"end_pos": 1375,
+		"start_pos": 1374
+	},
+	"import_hosp_n_ISITE12": {
+		"type": "text",
+		"end_pos": 1377,
+		"start_pos": 1376
+	},
+	"import_hosp_n_ISITE13": {
+		"type": "text",
+		"end_pos": 1379,
+		"start_pos": 1378
+	},
+	"import_hosp_n_ISITE14": {
+		"type": "text",
+		"end_pos": 1381,
+		"start_pos": 1380
+	},
+	"import_hosp_n_ISITE15": {
+		"type": "text",
+		"end_pos": 1383,
+		"start_pos": 1382
+	},
+	"import_hosp_n_ISITE16": {
+		"type": "text",
+		"end_pos": 1385,
+		"start_pos": 1384
+	},
+	"import_hosp_n_ISITE17": {
+		"type": "text",
+		"end_pos": 1387,
+		"start_pos": 1386
+	},
+	"import_hosp_n_ISITE18": {
+		"type": "text",
+		"end_pos": 1389,
+		"start_pos": 1388
+	},
+	"import_hosp_n_ISITE19": {
+		"type": "text",
+		"end_pos": 1391,
+		"start_pos": 1390
+	},
+	"import_hosp_n_ISITE20": {
+		"type": "text",
+		"end_pos": 1393,
+		"start_pos": 1392
+	},
+	"import_hosp_n_ISL": {
+		"type": "text",
+		"end_pos": 1396,
+		"start_pos": 1394
+	},
+	"import_hosp_n_ISTARTDATE1": {
+		"type": "date",
+		"end_pos": 1406,
+		"start_pos": 1397,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_ISTARTDATE2": {
+		"type": "date",
+		"end_pos": 1416,
+		"start_pos": 1407,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_ISTARTDATE3": {
+		"type": "date",
+		"end_pos": 1426,
+		"start_pos": 1417,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_ISTARTDATE4": {
+		"type": "date",
+		"end_pos": 1436,
+		"start_pos": 1427,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_ISTARTDATE5": {
+		"type": "date",
+		"end_pos": 1446,
+		"start_pos": 1437,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_ISTARTDATE6": {
+		"type": "date",
+		"end_pos": 1456,
+		"start_pos": 1447,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_ISTARTDATE7": {
+		"type": "date",
+		"end_pos": 1466,
+		"start_pos": 1457,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_ISTARTDATE8": {
+		"type": "date",
+		"end_pos": 1476,
+		"start_pos": 1467,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_ISTARTDATE9": {
+		"type": "date",
+		"end_pos": 1486,
+		"start_pos": 1477,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_ISTARTDATE10": {
+		"type": "date",
+		"end_pos": 1496,
+		"start_pos": 1487,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_ISTARTDATE11": {
+		"type": "date",
+		"end_pos": 1506,
+		"start_pos": 1497,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_ISTARTDATE12": {
+		"type": "date",
+		"end_pos": 1516,
+		"start_pos": 1507,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_ISTARTDATE13": {
+		"type": "date",
+		"end_pos": 1526,
+		"start_pos": 1517,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_ISTARTDATE14": {
+		"type": "date",
+		"end_pos": 1536,
+		"start_pos": 1527,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_ISTARTDATE15": {
+		"type": "date",
+		"end_pos": 1546,
+		"start_pos": 1537,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_ISTARTDATE16": {
+		"type": "date",
+		"end_pos": 1556,
+		"start_pos": 1547,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_ISTARTDATE17": {
+		"type": "date",
+		"end_pos": 1566,
+		"start_pos": 1557,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_ISTARTDATE18": {
+		"type": "date",
+		"end_pos": 1576,
+		"start_pos": 1567,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_ISTARTDATE19": {
+		"type": "date",
+		"end_pos": 1586,
+		"start_pos": 1577,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_ISTARTDATE20": {
+		"type": "date",
+		"end_pos": 1596,
+		"start_pos": 1587,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_ISTARTTIME1": {
+		"type": "time",
+		"end_pos": 1601,
+		"start_pos": 1597,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_ISTARTTIME2": {
+		"type": "time",
+		"end_pos": 1606,
+		"start_pos": 1602,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_ISTARTTIME3": {
+		"type": "time",
+		"end_pos": 1611,
+		"start_pos": 1607,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_ISTARTTIME4": {
+		"type": "time",
+		"end_pos": 1616,
+		"start_pos": 1612,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_ISTARTTIME5": {
+		"type": "time",
+		"end_pos": 1621,
+		"start_pos": 1617,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_ISTARTTIME6": {
+		"type": "time",
+		"end_pos": 1626,
+		"start_pos": 1622,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_ISTARTTIME7": {
+		"type": "time",
+		"end_pos": 1631,
+		"start_pos": 1627,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_ISTARTTIME8": {
+		"type": "time",
+		"end_pos": 1636,
+		"start_pos": 1632,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_ISTARTTIME9": {
+		"type": "time",
+		"end_pos": 1641,
+		"start_pos": 1637,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_ISTARTTIME10": {
+		"type": "time",
+		"end_pos": 1646,
+		"start_pos": 1642,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_ISTARTTIME11": {
+		"type": "time",
+		"end_pos": 1651,
+		"start_pos": 1647,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_ISTARTTIME12": {
+		"type": "time",
+		"end_pos": 1656,
+		"start_pos": 1652,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_ISTARTTIME13": {
+		"type": "time",
+		"end_pos": 1661,
+		"start_pos": 1657,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_ISTARTTIME14": {
+		"type": "time",
+		"end_pos": 1666,
+		"start_pos": 1662,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_ISTARTTIME15": {
+		"type": "time",
+		"end_pos": 1671,
+		"start_pos": 1667,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_ISTARTTIME16": {
+		"type": "time",
+		"end_pos": 1676,
+		"start_pos": 1672,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_ISTARTTIME17": {
+		"type": "time",
+		"end_pos": 1681,
+		"start_pos": 1677,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_ISTARTTIME18": {
+		"type": "time",
+		"end_pos": 1686,
+		"start_pos": 1682,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_ISTARTTIME19": {
+		"type": "time",
+		"end_pos": 1691,
+		"start_pos": 1687,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_ISTARTTIME20": {
+		"type": "time",
+		"end_pos": 1696,
+		"start_pos": 1692,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_ISTAT1": {
+		"type": "text",
+		"end_pos": 1698,
+		"start_pos": 1697
+	},
+	"import_hosp_n_ISTAT2": {
+		"type": "text",
+		"end_pos": 1700,
+		"start_pos": 1699
+	},
+	"import_hosp_n_ISTAT3": {
+		"type": "text",
+		"end_pos": 1702,
+		"start_pos": 1701
+	},
+	"import_hosp_n_ISTAT4": {
+		"type": "text",
+		"end_pos": 1704,
+		"start_pos": 1703
+	},
+	"import_hosp_n_ISTAT5": {
+		"type": "text",
+		"end_pos": 1706,
+		"start_pos": 1705
+	},
+	"import_hosp_n_ISTAT6": {
+		"type": "text",
+		"end_pos": 1708,
+		"start_pos": 1707
+	},
+	"import_hosp_n_ISTAT7": {
+		"type": "text",
+		"end_pos": 1710,
+		"start_pos": 1709
+	},
+	"import_hosp_n_ISTAT8": {
+		"type": "text",
+		"end_pos": 1712,
+		"start_pos": 1711
+	},
+	"import_hosp_n_ISTAT9": {
+		"type": "text",
+		"end_pos": 1714,
+		"start_pos": 1713
+	},
+	"import_hosp_n_ISTAT10": {
+		"type": "text",
+		"end_pos": 1716,
+		"start_pos": 1715
+	},
+	"import_hosp_n_ISTAT11": {
+		"type": "text",
+		"end_pos": 1718,
+		"start_pos": 1717
+	},
+	"import_hosp_n_ISTAT12": {
+		"type": "text",
+		"end_pos": 1720,
+		"start_pos": 1719
+	},
+	"import_hosp_n_ISTAT13": {
+		"type": "text",
+		"end_pos": 1722,
+		"start_pos": 1721
+	},
+	"import_hosp_n_ISTAT14": {
+		"type": "text",
+		"end_pos": 1724,
+		"start_pos": 1723
+	},
+	"import_hosp_n_ISTAT15": {
+		"type": "text",
+		"end_pos": 1726,
+		"start_pos": 1725
+	},
+	"import_hosp_n_ISTAT16": {
+		"type": "text",
+		"end_pos": 1728,
+		"start_pos": 1727
+	},
+	"import_hosp_n_ISTAT17": {
+		"type": "text",
+		"end_pos": 1730,
+		"start_pos": 1729
+	},
+	"import_hosp_n_ISTAT18": {
+		"type": "text",
+		"end_pos": 1732,
+		"start_pos": 1731
+	},
+	"import_hosp_n_ISTAT19": {
+		"type": "text",
+		"end_pos": 1734,
+		"start_pos": 1733
+	},
+	"import_hosp_n_ISTAT20": {
+		"type": "text",
+		"end_pos": 1736,
+		"start_pos": 1735
+	},
+	"import_hosp_n_LEFTERDT": {
+		"type": "DATE",
+		"end_pos": 1746,
+		"start_pos": 1737,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_LEFTERTM": {
+		"type": "TIME",
+		"end_pos": 1751,
+		"start_pos": 1747,
+		"format": "%H:%M"
+	},
+	"import_hosp_n_LEVEL": {
+		"type": "text",
+		"end_pos": 1752,
+		"start_pos": 1752
+	},
+	"import_hosp_n_MEDDAYS": {
+		"type": "numeric",
+		"end_pos": 1757,
+		"start_pos": 1753
+	},
+	"import_hosp_n_MHIA4": {
+		"type": "text",
+		"end_pos": 1758,
+		"start_pos": 1758
+	},
+	"import_hosp_n_MHIA10": {
+		"type": "text",
+		"end_pos": 1759,
+		"start_pos": 1759
+	},
+	"import_hosp_n_MHIA20": {
+		"type": "text",
+		"end_pos": 1760,
+		"start_pos": 1760
+	},
+	"import_hosp_n_MHIA21": {
+		"type": "text",
+		"end_pos": 1761,
+		"start_pos": 1761
+	},
+	"import_hosp_n_MHIADMIT": {
+		"type": "text",
+		"end_pos": 1762,
+		"start_pos": 1762
+	},
+	"import_hosp_n_MHIAPOL": {
+		"type": "text",
+		"end_pos": 1763,
+		"start_pos": 1763
+	},
+	"import_hosp_n_NEONDAYS": {
+		"type": "numeric",
+		"end_pos": 1768,
+		"start_pos": 1764
+	},
+	"import_hosp_n_NEURDAYS": {
+		"type": "numeric",
+		"end_pos": 1773,
+		"start_pos": 1769
+	},
+	"import_hosp_n_NICUL1DAYS": {
+		"type": "numeric",
+		"end_pos": 1778,
+		"start_pos": 1774
+	},
+	"import_hosp_n_NICUL2DAYS": {
+		"type": "numeric",
+		"end_pos": 1783,
+		"start_pos": 1779
+	},
+	"import_hosp_n_NICUL3DAYS": {
+		"type": "numeric",
+		"end_pos": 1788,
+		"start_pos": 1784
+	},
+	"import_hosp_n_OOHINT1": {
+		"type": "text",
+		"end_pos": 1798,
+		"start_pos": 1789
+	},
+	"import_hosp_n_OOHINT2": {
+		"type": "text",
+		"end_pos": 1808,
+		"start_pos": 1799
+	},
+	"import_hosp_n_OOHINT3": {
+		"type": "text",
+		"end_pos": 1818,
+		"start_pos": 1809
+	},
+	"import_hosp_n_OOHINT4": {
+		"type": "text",
+		"end_pos": 1828,
+		"start_pos": 1819
+	},
+	"import_hosp_n_OOHINT5": {
+		"type": "text",
+		"end_pos": 1838,
+		"start_pos": 1829
+	},
+	"import_hosp_n_OOHINT6": {
+		"type": "text",
+		"end_pos": 1848,
+		"start_pos": 1839
+	},
+	"import_hosp_n_OOHINT7": {
+		"type": "text",
+		"end_pos": 1858,
+		"start_pos": 1849
+	},
+	"import_hosp_n_OOHINT8": {
+		"type": "text",
+		"end_pos": 1868,
+		"start_pos": 1859
+	},
+	"import_hosp_n_OOHINT9": {
+		"type": "text",
+		"end_pos": 1878,
+		"start_pos": 1869
+	},
+	"import_hosp_n_OOHINT10": {
+		"type": "text",
+		"end_pos": 1888,
+		"start_pos": 1879
+	},
+	"import_hosp_n_OOHINT11": {
+		"type": "text",
+		"end_pos": 1898,
+		"start_pos": 1889
+	},
+	"import_hosp_n_OOHINT12": {
+		"type": "text",
+		"end_pos": 1908,
+		"start_pos": 1899
+	},
+	"import_hosp_n_OOHINT13": {
+		"type": "text",
+		"end_pos": 1918,
+		"start_pos": 1909
+	},
+	"import_hosp_n_OOHINT14": {
+		"type": "text",
+		"end_pos": 1928,
+		"start_pos": 1919
+	},
+	"import_hosp_n_OOHINT15": {
+		"type": "text",
+		"end_pos": 1938,
+		"start_pos": 1929
+	},
+	"import_hosp_n_OOHINT16": {
+		"type": "text",
+		"end_pos": 1948,
+		"start_pos": 1939
+	},
+	"import_hosp_n_OOHINT17": {
+		"type": "text",
+		"end_pos": 1958,
+		"start_pos": 1949
+	},
+	"import_hosp_n_OOHINT18": {
+		"type": "text",
+		"end_pos": 1968,
+		"start_pos": 1959
+	},
+	"import_hosp_n_OOHINT19": {
+		"type": "text",
+		"end_pos": 1978,
+		"start_pos": 1969
+	},
+	"import_hosp_n_OOHINT20": {
+		"type": "text",
+		"end_pos": 1988,
+		"start_pos": 1979
+	},
+	"import_hosp_n_OOPHOSP": {
+		"type": "text",
+		"end_pos": 1992,
+		"start_pos": 1989
+	},
+	"import_hosp_n_OPDEATH": {
+		"type": "text",
+		"end_pos": 1993,
+		"start_pos": 1993
+	},
+	"import_hosp_n_PATSERV": {
+		"type": "numeric",
+		"end_pos": 1995,
+		"start_pos": 1994
+	},
+	"import_hosp_n_PEDIDAYS": {
+		"type": "numeric",
+		"end_pos": 2000,
+		"start_pos": 1996
+	},
+	"import_hosp_n_PRIV_HOSP": {
+		"type": "numeric",
+		"end_pos": 2005,
+		"start_pos": 2001
+	},
+	"import_hosp_n_READMIT": {
+		"type": "numeric",
+		"end_pos": 2006,
+		"start_pos": 2006
+	},
+	"import_hosp_n_RECRDnumeric": {
+		"type": "numeric",
+		"end_pos": 2021,
+		"start_pos": 2007
+	},
+	"import_hosp_n_REHABDAY": {
+		"type": "numeric",
+		"end_pos": 2026,
+		"start_pos": 2022
+	},
+	"import_hosp_n_RESPDAYS": {
+		"type": "numeric",
+		"end_pos": 2031,
+		"start_pos": 2027
+	},
+	"import_hosp_n_RESPPHYS": {
+		"type": "text",
+		"end_pos": 2036,
+		"start_pos": 2032
+	},
+	"import_hosp_n_RFP": {
+		"type": "text",
+		"end_pos": 2038,
+		"start_pos": 2037
+	},
+	"import_hosp_n_SCU1DAYS": {
+		"type": "numeric",
+		"end_pos": 2043,
+		"start_pos": 2039
+	},
+	"import_hosp_n_SCU2DAYS": {
+		"type": "numeric",
+		"end_pos": 2048,
+		"start_pos": 2044
+	},
+	"import_hosp_n_SCU3DAYS": {
+		"type": "numeric",
+		"end_pos": 2053,
+		"start_pos": 2049
+	},
+	"import_hosp_n_SCU4DAYS": {
+		"type": "numeric",
+		"end_pos": 2058,
+		"start_pos": 2054
+	},
+	"import_hosp_n_SCU5DAYS": {
+		"type": "numeric",
+		"end_pos": 2063,
+		"start_pos": 2059
+	},
+	"import_hosp_n_SCU6DAYS": {
+		"type": "numeric",
+		"end_pos": 2068,
+		"start_pos": 2064
+	},
+	"import_hosp_n_SCUDEATH": {
+		"type": "text",
+		"end_pos": 2069,
+		"start_pos": 2069
+	},
+	"import_hosp_n_SDSURG": {
+		"type": "text",
+		"end_pos": 2070,
+		"start_pos": 2070
+	},
+	"import_hosp_n_SEPDATE": {
+		"type": "DATE",
+		"end_pos": 2080,
+		"start_pos": 2071,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_SEPDISP": {
+		"type": "numeric",
+		"end_pos": 2082,
+		"start_pos": 2081
+	},
+	"import_hosp_n_SEPTIME": {
+		"type": "time",
+		"end_pos": 2087,
+		"format": "%H:%M",
+		"start_pos": 2083
+	},
+	"import_hosp_n_SERV1": {
+		"type": "numeric",
+		"end_pos": 2089,
+		"start_pos": 2088
+	},
+	"import_hosp_n_SERV2": {
+		"type": "numeric",
+		"end_pos": 2091,
+		"start_pos": 2090
+	},
+	"import_hosp_n_SERV3": {
+		"type": "numeric",
+		"end_pos": 2093,
+		"start_pos": 2092
+	},
+	"import_hosp_n_SMEDDAYS": {
+		"type": "numeric",
+		"end_pos": 2098,
+		"start_pos": 2094
+	},
+	"import_hosp_n_SRV1": {
+		"type": "numeric",
+		"end_pos": 2103,
+		"start_pos": 2099
+	},
+	"import_hosp_n_SRV2": {
+		"type": "numeric",
+		"end_pos": 2108,
+		"start_pos": 2104
+	},
+	"import_hosp_n_SRV3": {
+		"type": "numeric",
+		"end_pos": 2113,
+		"start_pos": 2109
+	},
+	"import_hosp_n_SRV4": {
+		"type": "numeric",
+		"end_pos": 2118,
+		"start_pos": 2114
+	},
+	"import_hosp_n_SRV5": {
+		"type": "numeric",
+		"end_pos": 2123,
+		"start_pos": 2119
+	},
+	"import_hosp_n_SRV6": {
+		"type": "numeric",
+		"end_pos": 2128,
+		"start_pos": 2124
+	},
+	"import_hosp_n_SRV7": {
+		"type": "numeric",
+		"end_pos": 2133,
+		"start_pos": 2129
+	},
+	"import_hosp_n_SRV8": {
+		"type": "numeric",
+		"end_pos": 2138,
+		"start_pos": 2134
+	},
+	"import_hosp_n_SRV9": {
+		"type": "numeric",
+		"end_pos": 2143,
+		"start_pos": 2139
+	},
+	"import_hosp_n_SRV10": {
+		"type": "numeric",
+		"end_pos": 2148,
+		"start_pos": 2144
+	},
+	"import_hosp_n_SRV11": {
+		"type": "numeric",
+		"end_pos": 2153,
+		"start_pos": 2149
+	},
+	"import_hosp_n_SRV12": {
+		"type": "numeric",
+		"end_pos": 2158,
+		"start_pos": 2154
+	},
+	"import_hosp_n_SRV13": {
+		"type": "numeric",
+		"end_pos": 2163,
+		"start_pos": 2159
+	},
+	"import_hosp_n_SRV14": {
+		"type": "numeric",
+		"end_pos": 2168,
+		"start_pos": 2164
+	},
+	"import_hosp_n_SRV15": {
+		"type": "numeric",
+		"end_pos": 2173,
+		"start_pos": 2169
+	},
+	"import_hosp_n_SRV16": {
+		"type": "numeric",
+		"end_pos": 2178,
+		"start_pos": 2174
+	},
+	"import_hosp_n_SRV17": {
+		"type": "numeric",
+		"end_pos": 2183,
+		"start_pos": 2179
+	},
+	"import_hosp_n_SRV18": {
+		"type": "numeric",
+		"end_pos": 2188,
+		"start_pos": 2184
+	},
+	"import_hosp_n_SRV19": {
+		"type": "numeric",
+		"end_pos": 2193,
+		"start_pos": 2189
+	},
+	"import_hosp_n_SRV20": {
+		"type": "numeric",
+		"end_pos": 2198,
+		"start_pos": 2194
+	},
+	"import_hosp_n_SSRGDAYS": {
+		"type": "numeric",
+		"end_pos": 2203,
+		"start_pos": 2199
+	},
+	"import_hosp_n_SURG1": {
+		"type": "text",
+		"end_pos": 2208,
+		"start_pos": 2204
+	},
+	"import_hosp_n_SURG2": {
+		"type": "text",
+		"end_pos": 2213,
+		"start_pos": 2209
+	},
+	"import_hosp_n_SURG3": {
+		"type": "text",
+		"end_pos": 2218,
+		"start_pos": 2214
+	},
+	"import_hosp_n_SURG4": {
+		"type": "text",
+		"end_pos": 2223,
+		"start_pos": 2219
+	},
+	"import_hosp_n_SURG5": {
+		"type": "text",
+		"end_pos": 2228,
+		"start_pos": 2224
+	},
+	"import_hosp_n_SURG6": {
+		"type": "text",
+		"end_pos": 2233,
+		"start_pos": 2229
+	},
+	"import_hosp_n_SURG7": {
+		"type": "text",
+		"end_pos": 2238,
+		"start_pos": 2234
+	},
+	"import_hosp_n_SURG8": {
+		"type": "text",
+		"end_pos": 2243,
+		"start_pos": 2239
+	},
+	"import_hosp_n_SURG9": {
+		"type": "text",
+		"end_pos": 2248,
+		"start_pos": 2244
+	},
+	"import_hosp_n_SURG10": {
+		"type": "text",
+		"end_pos": 2253,
+		"start_pos": 2249
+	},
+	"import_hosp_n_SURG11": {
+		"type": "text",
+		"end_pos": 2258,
+		"start_pos": 2254
+	},
+	"import_hosp_n_SURG12": {
+		"type": "text",
+		"end_pos": 2263,
+		"start_pos": 2259
+	},
+	"import_hosp_n_SURG13": {
+		"type": "text",
+		"end_pos": 2268,
+		"start_pos": 2264
+	},
+	"import_hosp_n_SURG14": {
+		"type": "text",
+		"end_pos": 2273,
+		"start_pos": 2269
+	},
+	"import_hosp_n_SURG15": {
+		"type": "text",
+		"end_pos": 2278,
+		"start_pos": 2274
+	},
+	"import_hosp_n_SURG16": {
+		"type": "text",
+		"end_pos": 2283,
+		"start_pos": 2279
+	},
+	"import_hosp_n_SURG17": {
+		"type": "text",
+		"end_pos": 2288,
+		"start_pos": 2284
+	},
+	"import_hosp_n_SURG18": {
+		"type": "text",
+		"end_pos": 2293,
+		"start_pos": 2289
+	},
+	"import_hosp_n_SURG19": {
+		"type": "text",
+		"end_pos": 2298,
+		"start_pos": 2294
+	},
+	"import_hosp_n_SURG20": {
+		"type": "text",
+		"end_pos": 2303,
+		"start_pos": 2299
+	},
+	"import_hosp_n_SURGCASE2": {
+		"type": "text",
+		"end_pos": 2304,
+		"start_pos": 2304
+	},
+	"import_hosp_n_SURGDAYS": {
+		"type": "numeric",
+		"end_pos": 2309,
+		"start_pos": 2305
+	},
+	"import_hosp_n_TDAYS": {
+		"type": "numeric",
+		"end_pos": 2314,
+		"start_pos": 2310
+	},
+	"import_hosp_n_TRAUDAYS": {
+		"type": "numeric",
+		"end_pos": 2319,
+		"start_pos": 2315
+	},
+	"import_hosp_n_TRDPARTY": {
+		"type": "text",
+		"end_pos": 2320,
+		"start_pos": 2320
+	},
+	"import_hosp_n_UNDEFDAY": {
+		"type": "numeric",
+		"end_pos": 2325,
+		"start_pos": 2321
+	},
+	"import_hosp_n_VENTDIS": {
+		"type": "text",
+		"end_pos": 2326,
+		"start_pos": 2326
+	},
+	"import_hosp_n_VENTHOURS": {
+		"type": "numeric",
+		"end_pos": 2331,
+		"start_pos": 2327
+	},
+	"import_hosp_n_VENTIND": {
+		"type": "text",
+		"end_pos": 2332,
+		"start_pos": 2332
+	},
+	"import_hosp_n_DPREFX1": {
+		"type": "text",
+		"end_pos": 2333,
+		"start_pos": 2333
+	},
+	"import_hosp_n_DPREFX2": {
+		"type": "text",
+		"end_pos": 2334,
+		"start_pos": 2334
+	},
+	"import_hosp_n_DPREFX3": {
+		"type": "text",
+		"end_pos": 2335,
+		"start_pos": 2335
+	},
+	"import_hosp_n_DPREFX4": {
+		"type": "text",
+		"end_pos": 2336,
+		"start_pos": 2336
+	},
+	"import_hosp_n_DPREFX5": {
+		"type": "text",
+		"end_pos": 2337,
+		"start_pos": 2337
+	},
+	"import_hosp_n_DPREFX6": {
+		"type": "text",
+		"end_pos": 2338,
+		"start_pos": 2338
+	},
+	"import_hosp_n_DPREFX7": {
+		"type": "text",
+		"end_pos": 2339,
+		"start_pos": 2339
+	},
+	"import_hosp_n_DPREFX8": {
+		"type": "text",
+		"end_pos": 2340,
+		"start_pos": 2340
+	},
+	"import_hosp_n_DPREFX9": {
+		"type": "text",
+		"end_pos": 2341,
+		"start_pos": 2341
+	},
+	"import_hosp_n_DPREFX10": {
+		"type": "text",
+		"end_pos": 2342,
+		"start_pos": 2342
+	},
+	"import_hosp_n_DPREFX11": {
+		"type": "text",
+		"end_pos": 2343,
+		"start_pos": 2343
+	},
+	"import_hosp_n_DPREFX12": {
+		"type": "text",
+		"end_pos": 2344,
+		"start_pos": 2344
+	},
+	"import_hosp_n_DPREFX13": {
+		"type": "text",
+		"end_pos": 2345,
+		"start_pos": 2345
+	},
+	"import_hosp_n_DPREFX14": {
+		"type": "text",
+		"end_pos": 2346,
+		"start_pos": 2346
+	},
+	"import_hosp_n_DPREFX15": {
+		"type": "text",
+		"end_pos": 2347,
+		"start_pos": 2347
+	},
+	"import_hosp_n_DPREFX16": {
+		"type": "text",
+		"end_pos": 2348,
+		"start_pos": 2348
+	},
+	"import_hosp_n_DPREFX17": {
+		"type": "text",
+		"end_pos": 2349,
+		"start_pos": 2349
+	},
+	"import_hosp_n_DPREFX18": {
+		"type": "text",
+		"end_pos": 2350,
+		"start_pos": 2350
+	},
+	"import_hosp_n_DPREFX19": {
+		"type": "text",
+		"end_pos": 2351,
+		"start_pos": 2351
+	},
+	"import_hosp_n_DPREFX20": {
+		"type": "text",
+		"end_pos": 2352,
+		"start_pos": 2352
+	},
+	"import_hosp_n_DPREFX21": {
+		"type": "text",
+		"end_pos": 2353,
+		"start_pos": 2353
+	},
+	"import_hosp_n_DPREFX22": {
+		"type": "text",
+		"end_pos": 2354,
+		"start_pos": 2354
+	},
+	"import_hosp_n_DPREFX23": {
+		"type": "text",
+		"end_pos": 2355,
+		"start_pos": 2355
+	},
+	"import_hosp_n_DPREFX24": {
+		"type": "text",
+		"end_pos": 2356,
+		"start_pos": 2356
+	},
+	"import_hosp_n_DPREFX25": {
+		"type": "text",
+		"end_pos": 2357,
+		"start_pos": 2357
+	},
+	"import_hosp_n_ERTIME": {
+		"type": "numeric",
+		"end_pos": 2360,
+		"start_pos": 2358
+	},
+	"import_hosp_n_GLASGOW": {
+		"type": "numeric",
+		"end_pos": 2362,
+		"start_pos": 2361
+	},
+	"import_hosp_n_ILOC1": {
+		"type": "text",
+		"end_pos": 2364,
+		"start_pos": 2363
+	},
+	"import_hosp_n_ILOC2": {
+		"type": "text",
+		"end_pos": 2366,
+		"start_pos": 2365
+	},
+	"import_hosp_n_ILOC3": {
+		"type": "text",
+		"end_pos": 2368,
+		"start_pos": 2367
+	},
+	"import_hosp_n_ILOC4": {
+		"type": "text",
+		"end_pos": 2370,
+		"start_pos": 2369
+	},
+	"import_hosp_n_ILOC5": {
+		"type": "text",
+		"end_pos": 2372,
+		"start_pos": 2371
+	},
+	"import_hosp_n_ILOC6": {
+		"type": "text",
+		"end_pos": 2374,
+		"start_pos": 2373
+	},
+	"import_hosp_n_ILOC7": {
+		"type": "text",
+		"end_pos": 2376,
+		"start_pos": 2375
+	},
+	"import_hosp_n_ILOC8": {
+		"type": "text",
+		"end_pos": 2378,
+		"start_pos": 2377
+	},
+	"import_hosp_n_ILOC9": {
+		"type": "text",
+		"end_pos": 2380,
+		"start_pos": 2379
+	},
+	"import_hosp_n_ILOC10": {
+		"type": "text",
+		"end_pos": 2382,
+		"start_pos": 2381
+	},
+	"import_hosp_n_ILOC11": {
+		"type": "text",
+		"end_pos": 2384,
+		"start_pos": 2383
+	},
+	"import_hosp_n_ILOC12": {
+		"type": "text",
+		"end_pos": 2386,
+		"start_pos": 2385
+	},
+	"import_hosp_n_ILOC13": {
+		"type": "text",
+		"end_pos": 2388,
+		"start_pos": 2387
+	},
+	"import_hosp_n_ILOC14": {
+		"type": "text",
+		"end_pos": 2390,
+		"start_pos": 2389
+	},
+	"import_hosp_n_ILOC15": {
+		"type": "text",
+		"end_pos": 2392,
+		"start_pos": 2391
+	},
+	"import_hosp_n_ILOC16": {
+		"type": "text",
+		"end_pos": 2394,
+		"start_pos": 2393
+	},
+	"import_hosp_n_ILOC17": {
+		"type": "text",
+		"end_pos": 2396,
+		"start_pos": 2395
+	},
+	"import_hosp_n_ILOC18": {
+		"type": "text",
+		"end_pos": 2398,
+		"start_pos": 2397
+	},
+	"import_hosp_n_ILOC19": {
+		"type": "text",
+		"end_pos": 2400,
+		"start_pos": 2399
+	},
+	"import_hosp_n_ILOC20": {
+		"type": "text",
+		"end_pos": 2402,
+		"start_pos": 2401
+	},
+	"import_hosp_n_PREDELDAYS": {
+		"type": "numeric",
+		"end_pos": 2407,
+		"start_pos": 2403
+	},
+	"import_hosp_n_PRETDEL": {
+		"type": "text",
+		"end_pos": 2409,
+		"start_pos": 2408
+	},
+	"import_hosp_n_PROVnumeric2": {
+		"type": "numeric",
+		"end_pos": 2414,
+		"start_pos": 2410
+	},
+	"import_hosp_n_PROVnumeric3": {
+		"type": "numeric",
+		"end_pos": 2419,
+		"start_pos": 2415
+	},
+	"import_hosp_n_PROVnumeric4": {
+		"type": "numeric",
+		"end_pos": 2424,
+		"start_pos": 2420
+	},
+	"import_hosp_n_PROVnumeric5": {
+		"type": "numeric",
+		"end_pos": 2429,
+		"start_pos": 2425
+	},
+	"import_hosp_n_PROVnumeric6": {
+		"type": "numeric",
+		"end_pos": 2434,
+		"start_pos": 2430
+	},
+	"import_hosp_n_PROVnumeric7": {
+		"type": "numeric",
+		"end_pos": 2439,
+		"start_pos": 2435
+	},
+	"import_hosp_n_PROVnumeric8": {
+		"type": "text",
+		"end_pos": 2444,
+		"start_pos": 2440
+	},
+	"import_hosp_n_PROVSRV2": {
+		"type": "text",
+		"end_pos": 2449,
+		"start_pos": 2445
+	},
+	"import_hosp_n_PROVSRV3": {
+		"type": "text",
+		"end_pos": 2454,
+		"start_pos": 2450
+	},
+	"import_hosp_n_PROVSRV4": {
+		"type": "text",
+		"end_pos": 2459,
+		"start_pos": 2455
+	},
+	"import_hosp_n_PROVSRV5": {
+		"type": "text",
+		"end_pos": 2464,
+		"start_pos": 2460
+	},
+	"import_hosp_n_PROVSRV6": {
+		"type": "text",
+		"end_pos": 2469,
+		"start_pos": 2465
+	},
+	"import_hosp_n_PROVSRV7": {
+		"type": "text",
+		"end_pos": 2474,
+		"start_pos": 2470
+	},
+	"import_hosp_n_PROVSRV8": {
+		"type": "text",
+		"end_pos": 2479,
+		"start_pos": 2475
+	},
+	"import_hosp_n_PROVTYP1": {
+		"type": "text",
+		"end_pos": 2480,
+		"start_pos": 2480
+	},
+	"import_hosp_n_PROVTYP2": {
+		"type": "text",
+		"end_pos": 2481,
+		"start_pos": 2481
+	},
+	"import_hosp_n_PROVTYP3": {
+		"type": "text",
+		"end_pos": 2482,
+		"start_pos": 2482
+	},
+	"import_hosp_n_PROVTYP4": {
+		"type": "text",
+		"end_pos": 2483,
+		"start_pos": 2483
+	},
+	"import_hosp_n_PROVTYP5": {
+		"type": "text",
+		"end_pos": 2484,
+		"start_pos": 2484
+	},
+	"import_hosp_n_PROVTYP6": {
+		"type": "text",
+		"end_pos": 2485,
+		"start_pos": 2485
+	},
+	"import_hosp_n_PROVTYP7": {
+		"type": "text",
+		"end_pos": 2486,
+		"start_pos": 2486
+	},
+	"import_hosp_n_PROVTYP8": {
+		"type": "text",
+		"end_pos": 2487,
+		"start_pos": 2487
+	},
+	"import_hosp_n_SCU1ADDT": {
+		"type": "DATE",
+		"end_pos": 2497,
+		"start_pos": 2488,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_SCU2ADDT": {
+		"type": "DATE",
+		"end_pos": 2507,
+		"start_pos": 2498,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_SCU3ADDT": {
+		"type": "DATE",
+		"end_pos": 2517,
+		"start_pos": 2508,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_SCU4ADDT": {
+		"type": "DATE",
+		"end_pos": 2527,
+		"start_pos": 2518,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_SCU5ADDT": {
+		"type": "DATE",
+		"end_pos": 2537,
+		"start_pos": 2528,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_SCU6ADDT": {
+		"type": "DATE",
+		"end_pos": 2547,
+		"start_pos": 2538,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_SCU1ADTM": {
+		"type": "time",
+		"end_pos": 2555,
+		"format": "%H:%M:%S",
+		"start_pos": 2548
+	},
+	"import_hosp_n_SCU2ADTM": {
+		"type": "time",
+		"end_pos": 2563,
+		"format": "%H:%M:%S",
+		"start_pos": 2556
+	},
+	"import_hosp_n_SCU3ADTM": {
+		"type": "time",
+		"end_pos": 2571,
+		"format": "%H:%M:%S",
+		"start_pos": 2564
+	},
+	"import_hosp_n_SCU4ADTM": {
+		"type": "time",
+		"end_pos": 2579,
+		"format": "%H:%M:%S",
+		"start_pos": 2572
+	},
+	"import_hosp_n_SCU5ADTM": {
+		"type": "time",
+		"end_pos": 2587,
+		"format": "%H:%M:%S",
+		"start_pos": 2580
+	},
+	"import_hosp_n_SCU6ADTM": {
+		"type": "time",
+		"end_pos": 2595,
+		"format": "%H:%M:%S",
+		"start_pos": 2588
+	},
+	"import_hosp_n_SCU1DSDT": {
+		"type": "DATE",
+		"end_pos": 2605,
+		"start_pos": 2596,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_SCU2DSDT": {
+		"type": "DATE",
+		"end_pos": 2615,
+		"start_pos": 2606,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_SCU3DSDT": {
+		"type": "DATE",
+		"end_pos": 2625,
+		"start_pos": 2616,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_SCU4DSDT": {
+		"type": "DATE",
+		"end_pos": 2635,
+		"start_pos": 2626,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_SCU5DSDT": {
+		"type": "DATE",
+		"end_pos": 2645,
+		"start_pos": 2636,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_SCU6DSDT": {
+		"type": "DATE",
+		"end_pos": 2655,
+		"start_pos": 2646,
+		"format": "%Y-%m-%d"
+	},
+	"import_hosp_n_SCU1DSTM": {
+		"type": "time",
+		"end_pos": 2663,
+		"format": "%H:%M:%S",
+		"start_pos": 2656
+	},
+	"import_hosp_n_SCU2DSTM": {
+		"type": "time",
+		"end_pos": 2671,
+		"format": "%H:%M:%S",
+		"start_pos": 2664
+	},
+	"import_hosp_n_SCU3DSTM": {
+		"type": "time",
+		"end_pos": 2679,
+		"format": "%H:%M:%S",
+		"start_pos": 2672
+	},
+	"import_hosp_n_SCU4DSTM": {
+		"type": "time",
+		"end_pos": 2687,
+		"format": "%H:%M:%S",
+		"start_pos": 2680
+	},
+	"import_hosp_n_SCU5DSTM": {
+		"type": "time",
+		"end_pos": 2695,
+		"format": "%H:%M:%S",
+		"start_pos": 2688
+	},
+	"import_hosp_n_SCU6DSTM": {
+		"type": "time",
+		"end_pos": 2703,
+		"format": "%H:%M:%S",
+		"start_pos": 2696
+	},
+	"import_hosp_n_SCU1HRS": {
+		"type": "interval",
+		"end_pos": 2707,
+		"format": "%H",
+		"start_pos": 2704
+	},
+	"import_hosp_n_SCU2HRS": {
+		"type": "interval",
+		"end_pos": 2711,
+		"format": "%H",
+		"start_pos": 2708
+	},
+	"import_hosp_n_SCU3HRS": {
+		"type": "interval",
+		"end_pos": 2715,
+		"format": "%H",
+		"start_pos": 2712
+	},
+	"import_hosp_n_SCU4HRS": {
+		"type": "interval",
+		"end_pos": 2719,
+		"format": "%H",
+		"start_pos": 2716
+	},
+	"import_hosp_n_SCU5HRS": {
+		"type": "interval",
+		"end_pos": 2723,
+		"format": "%H",
+		"start_pos": 2720
+	},
+	"import_hosp_n_SCU6HRS": {
+		"type": "interval",
+		"end_pos": 2727,
+		"format": "%H",
+		"start_pos": 2724
+	},
+	"import_hosp_n_SCU1numeric": {
+		"type": "text",
+		"end_pos": 2729,
+		"start_pos": 2728
+	},
+	"import_hosp_n_SCU2numeric": {
+		"type": "text",
+		"end_pos": 2731,
+		"start_pos": 2730
+	},
+	"import_hosp_n_SCU3numeric": {
+		"type": "text",
+		"end_pos": 2733,
+		"start_pos": 2732
+	},
+	"import_hosp_n_SCU4numeric": {
+		"type": "text",
+		"end_pos": 2735,
+		"start_pos": 2734
+	},
+	"import_hosp_n_SCU5numeric": {
+		"type": "text",
+		"end_pos": 2737,
+		"start_pos": 2736
+	},
+	"import_hosp_n_SCU6numeric": {
+		"type": "text",
+		"end_pos": 2739,
+		"start_pos": 2738
+	},
+	"import_hosp_n_SCULOS": {
+		"type": "numeric",
+		"end_pos": 2744,
+		"start_pos": 2740
+	},
+	"import_hosp_n_TERMDEL": {
+		"type": "numeric",
+		"end_pos": 2746,
+		"start_pos": 2745
+	},
+	"import_hosp_n_DATAYR": {
+		"type": "text",
+		"end_pos": 2750,
+		"start_pos": 2747
+	},
+	"import_hosp_n_VERSION": {
+		"type": "text",
+		"end_pos": 2752,
+		"start_pos": 2751
+	},
+	"import_hosp_n_SEQNO": {
+		"type": "text",
+		"end_pos": 2762,
+		"start_pos": 2753
+	},
+	"import_hosp_n_STUDYID": {
+		"type": "text",
+		"end_pos": 2772,
+		"start_pos": 2763
+	}
+}

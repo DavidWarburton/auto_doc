@@ -1,0 +1,219 @@
+{
+	"import_msp_c_subsidy": {
+		"type": "text",
+		"length": 1,
+		"start_pos": 1
+	},
+	"import_msp_c_servdate": {
+		"type": "date",
+		"length": 8,
+		"start_pos": 2,
+		"format": "%Y%m%d"
+	},
+	"import_msp_c_pracnum": {
+		"type": "numeric",
+		"length": 5,
+		"start_pos": 10
+	},
+	"import_msp_c_spec": {
+		"type": "numeric",
+		"length": 2,
+		"start_pos": 15
+	},
+	"import_msp_c_paynum": {
+		"type": "numeric",
+		"length": 5,
+		"start_pos": 17
+	},
+	"import_msp_c_rfr_pracnum": {
+		"type": "numeric",
+		"length": 5,
+		"start_pos": 22
+	},
+	"import_msp_c_servcode": {
+		"type": "numeric",
+		"length": 2,
+		"start_pos": 27
+	},
+	"import_msp_c_servunits": {
+		"type": "numeric",
+		"length": 4,
+		"start_pos": 29
+	},
+	"import_msp_c_feeitem": {
+		"type": "numeric",
+		"length": 5,
+		"start_pos": 33
+	},
+	"import_msp_c_paidamt": {
+		"type": "numeric",
+		"length": 13,
+		"start_pos": 38
+	},
+	"import_msp_c_expl_cd": {
+		"type": "text",
+		"length": 6,
+		"start_pos": 51
+	},
+	"import_msp_c_paiddate": {
+		"type": "numeric",
+		"length": 8,
+		"start_pos": 57,
+		"format": "%Y%m%d"
+	},
+	"import_msp_c_paidto": {
+		"type": "text",
+		"length": 1,
+		"start_pos": 65
+	},
+	"import_msp_c_servwhere": {
+		"type": "text",
+		"length": 2,
+		"start_pos": 66
+	},
+	"import_msp_c_prov": {
+		"type": "text",
+		"length": 2,
+		"start_pos": 68
+	},
+	"import_msp_c_servloc": {
+		"type": "text",
+		"length": 1,
+		"start_pos": 70
+	},
+	"import_msp_c_retro": {
+		"type": "text",
+		"length": 1,
+		"start_pos": 71
+	},
+	"import_msp_c_retro_amt": {
+		"type": "numeric",
+		"length": 7,
+		"start_pos": 72
+	},
+	"import_msp_c_icd9": {
+		"type": "text",
+		"length": 5,
+		"start_pos": 85
+	},
+	"import_msp_c_clmtype": {
+		"type": "text",
+		"length": 2,
+		"start_pos": 90
+	},
+	"import_msp_c_rfr_flag": {
+		"type": "text",
+		"length": 1,
+		"start_pos": 92
+	},
+	"import_msp_c_prcntg_fee": {
+		"type": "numeric",
+		"length": 5,
+		"start_pos": 93
+	},
+	"import_msp_c_icd9_1": {
+		"type": "text",
+		"length": 5,
+		"start_pos": 98
+	},
+	"import_msp_c_icd9_2": {
+		"type": "text",
+		"length": 5,
+		"start_pos": 103
+	},
+	"import_msp_c_icd9_3": {
+		"type": "text",
+		"length": 5,
+		"start_pos": 108
+	},
+	"import_msp_c_icd9_4": {
+		"type": "text",
+		"length": 5,
+		"start_pos": 113
+	},
+	"import_msp_c_icd9_5": {
+		"type": "text",
+		"length": 5,
+		"start_pos": 118
+	},
+	"import_msp_c_niaamt": {
+		"type": "numeric",
+		"length": 13,
+		"start_pos": 123
+	},
+	"import_msp_c_rollamt": {
+		"type": "numeric",
+		"length": 13,
+		"start_pos": 136
+	},
+	"import_msp_c_intamt": {
+		"type": "numeric",
+		"length": 13,
+		"start_pos": 149
+	},
+	"import_msp_c_pvcamt": {
+		"type": "numeric",
+		"length": 13,
+		"start_pos": 162
+	},
+	"import_msp_c_dscamt": {
+		"type": "numeric",
+		"length": 13,
+		"start_pos": 175
+	},
+	"import_msp_c_prorattn": {
+		"type": "numeric",
+		"length": 13,
+		"start_pos": 188
+	},
+	"import_msp_c_pysychprm": {
+		"type": "numeric",
+		"length": 13,
+		"start_pos": 201
+	},
+	"import_msp_c_locumamt": {
+		"type": "numeric",
+		"length": 13,
+		"start_pos": 214
+	},
+	"import_msp_c_fitmrol": {
+		"type": "numeric",
+		"length": 13,
+		"start_pos": 227
+	},
+	"import_msp_c_rvgamt": {
+		"type": "numeric",
+		"length": 13,
+		"start_pos": 240
+	},
+	"import_msp_c_rrpamt": {
+		"type": "numeric",
+		"length": 13,
+		"start_pos": 253
+	},
+	"import_msp_c_splamt": {
+		"type": "numeric",
+		"length": 13,
+		"start_pos": 266
+	},
+	"study_data_year": {
+		"type": "text",
+		"length": 13,
+		"start_pos": 279
+	},
+	"study_version": {
+		"type": "text",
+		"length": 2,
+		"start_pos": 283
+	},
+	"study_sequence_number": {
+		"type": "text",
+		"length": 10,
+		"start_pos": 285
+	},
+	"study_id": {
+		"type": "text",
+		"length": 10,
+		"start_pos": 295
+	}
+}

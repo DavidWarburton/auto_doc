@@ -1,0 +1,78 @@
+{
+	"PAYMENT_SK": {
+		"length": 20,
+		"start_pos": 1
+	},
+	"ICM_CASE_NUMBER": {
+		"length": 15,
+		"start_pos": 21
+	},
+	"ASSISTANCE_BENEFIT_MTH": {
+		"length": 10,
+		"start_pos": 36
+	},
+	"PAYMENT_DATE": {
+		"length": 10,
+		"start_pos": 46
+	},
+	"CHEQUE_ISSUE_DATE": {
+		"length": 10,
+		"start_pos": 56
+	},
+	"FILE_DESIGNATION": {
+		"length": 16,
+		"start_pos": 66
+	},
+	"TA_DA": {
+		"length": 4,
+		"start_pos": 82
+	},
+	"PAYMENT_TA_DA": {
+		"length": 5,
+		"start_pos": 86
+	},
+	"CHEQUE_ISSUE_TYPE": {
+		"length": 19,
+		"start_pos": 91
+	},
+	"PAYEE_TYPE": {
+		"length": 10,
+		"start_pos": 110
+	},
+	"PAYMENT_AMOUNT": {
+		"length": 10,
+		"start_pos": 120
+	},
+	"CASHED_AMOUNT": {
+		"length": 9,
+		"start_pos": 130
+	},
+	"PAYMENT_STATUS": {
+		"length": 16,
+		"start_pos": 139
+	},
+	"GL_POSTING_DATE": {
+		"length": 10,
+		"start_pos": 155
+	},
+	"PFX_FNUM": {
+		"length": 2,
+		"start_pos": 165
+	},
+	"FILE_NUMBER": {
+		"length": 10,
+		"start_pos": 167
+	},
+	"DATAYR": {
+		"length": 4,
+		"start_pos": 177
+	},
+	"VERSION": {
+		"length": 2,
+		"start_pos": 181
+	},
+	"SEQNO": {
+		"length": 10,
+		"start_pos": 183
+	}
+}
